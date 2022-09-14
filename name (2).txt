@@ -1,5 +1,0 @@
->Capnocytophaga gingivalis ATCC 33624
->Capnocytophaga sp HMT 338 F0234
->Capnocytophaga granulosa ATCC 51502
->Capnocytophaga sp HMT 863 F0517
->Capnocytophaga sp HMT 903 W10654
