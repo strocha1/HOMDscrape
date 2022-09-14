@@ -1,4 +1,4 @@
-# HOMD_BINF
+# HOMDscrape
 Code and files used for the phylogenetic analysis of the Human Oral Microbiome
 
 This folder is the main folder containing the most recent code for HOMDscrape.
