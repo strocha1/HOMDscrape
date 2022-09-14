@@ -1,0 +1,53 @@
+
+BLASTP 2.2.25 [Feb-01-2011]
+
+
+Reference:
+Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schäffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Database: ftp/faa/ALL_genomes.faa 
+           5,041,813 sequences; 1,561,442,254 total letters
+
+
+
+Query= 
+         (554 letters)
+
+Top of Form
+
+Bottom of Form
+Distribution of 23 Blast Hits on the Query Sequence
+
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+SEQF1602_02359 Hercynine oxygenase [HMT-337 Capnocytophaga gingi...  1140   0.0   
+SEQF1653_01022 Hercynine oxygenase [HMT-325 Capnocytophaga granu...  1050   0.0   
+SEQF1687_00140 Hercynine oxygenase [HMT-338 Capnocytophaga sp. H...  1050   0.0   
+SEQF2319_01166 Hercynine oxygenase [HMT-863 Capnocytophaga sp. H...  1047   0.0   
+SEQF3174_01002 hypothetical protein [HMT-902 Capnocytophaga sp. ...   823   0.0   
+SEQF2747_01438 Hercynine oxygenase [HMT-323 Capnocytophaga sp. H...   823   0.0   
+SEQF1909_00120 Hercynine oxygenase [HMT-412 Capnocytophaga sp. H...   823   0.0   
+SEQF2387_00459 Hercynine oxygenase [HMT-700 Capnocytophaga ochra...   823   0.0   
+SEQF1006_01598 Hercynine oxygenase [HMT-700 Capnocytophaga ochra...   823   0.0   
+SEQF3058_01690 Hercynine oxygenase [HMT-864 Capnocytophaga sp. H...   822   0.0   
+SEQF1970_00205 Hercynine oxygenase [HMT-336 Capnocytophaga sp. H...   822   0.0   
+SEQF1950_01418 Hercynine oxygenase [HMT-380 Capnocytophaga sp. H...   822   0.0   
+SEQF1906_00134 Hercynine oxygenase [HMT-335 Capnocytophaga sp. H...   822   0.0   
+SEQF1008_00773 Hercynine oxygenase [HMT-700 Capnocytophaga ochra...   822   0.0   
+SEQF3176_00690 hypothetical protein [HMT-903 Capnocytophaga sp. ...   821   0.0   
+SEQF1938_00945 Hercynine oxygenase [HMT-324 Capnocytophaga sp. H...   820   0.0   
+SEQF2788_00504 Hercynine oxygenase [HMT-627 Capnocytophaga haemo...   814   0.0   
+SEQF1900_02665 Hercynine oxygenase [HMT-326 Capnocytophaga sp. H...   813   0.0   
+SEQF1576_00329 Hercynine oxygenase [HMT-775 Capnocytophaga sputi...   810   0.0   
+SEQF1937_02399 Hercynine oxygenase [HMT-332 Capnocytophaga sp. H...   797   0.0   
+SEQF3059_02109 Hercynine oxygenase [HMT-878 Capnocytophaga sp. H...   786   0.0   
+SEQF3157_01861 Hercynine oxygenase [HMT-261 Segetibacter aerophi...   345   4e-93 
+SEQF1451_01601 hypothetical protein [HMT-274 Bacteroidales G-2 b...   265   4e-69 
+

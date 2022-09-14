@@ -1,0 +1,659 @@
+
+BLASTP 2.2.25 [Feb-01-2011]
+
+
+Reference:
+Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schäffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Database: ftp/faa/ALL_genomes.faa 
+           5,041,813 sequences; 1,561,442,254 total letters
+
+
+
+Query= 
+         (563 letters)
+
+Top of Form
+
+Bottom of Form
+Distribution of 689 Blast Hits on the Query Sequence
+
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+SEQF1602_02359 Hercynine oxygenase [HMT-337 Capnocytophaga gingi...  1158   0.0   
+SEQF1687_00140 Hercynine oxygenase [HMT-338 Capnocytophaga sp. H...  1063   0.0   
+SEQF1653_01022 Hercynine oxygenase [HMT-325 Capnocytophaga granu...  1050   0.0   
+SEQF2319_01166 Hercynine oxygenase [HMT-863 Capnocytophaga sp. H...  1047   0.0   
+SEQF2747_01438 Hercynine oxygenase [HMT-323 Capnocytophaga sp. H...   825   0.0   
+SEQF2387_00459 Hercynine oxygenase [HMT-700 Capnocytophaga ochra...   824   0.0   
+SEQF1006_01598 Hercynine oxygenase [HMT-700 Capnocytophaga ochra...   824   0.0   
+SEQF3174_01002 hypothetical protein [HMT-902 Capnocytophaga sp. ...   823   0.0   
+SEQF1909_00120 Hercynine oxygenase [HMT-412 Capnocytophaga sp. H...   823   0.0   
+SEQF3058_01690 Hercynine oxygenase [HMT-864 Capnocytophaga sp. H...   823   0.0   
+SEQF1970_00205 Hercynine oxygenase [HMT-336 Capnocytophaga sp. H...   823   0.0   
+SEQF3176_00690 hypothetical protein [HMT-903 Capnocytophaga sp. ...   822   0.0   
+SEQF1950_01418 Hercynine oxygenase [HMT-380 Capnocytophaga sp. H...   822   0.0   
+SEQF1906_00134 Hercynine oxygenase [HMT-335 Capnocytophaga sp. H...   822   0.0   
+SEQF1008_00773 Hercynine oxygenase [HMT-700 Capnocytophaga ochra...   822   0.0   
+SEQF1938_00945 Hercynine oxygenase [HMT-324 Capnocytophaga sp. H...   820   0.0   
+SEQF2788_00504 Hercynine oxygenase [HMT-627 Capnocytophaga haemo...   816   0.0   
+SEQF1900_02665 Hercynine oxygenase [HMT-326 Capnocytophaga sp. H...   814   0.0   
+SEQF1576_00329 Hercynine oxygenase [HMT-775 Capnocytophaga sputi...   811   0.0   
+SEQF1937_02399 Hercynine oxygenase [HMT-332 Capnocytophaga sp. H...   798   0.0   
+SEQF3059_02109 Hercynine oxygenase [HMT-878 Capnocytophaga sp. H...   788   0.0   
+SEQF3157_01861 Hercynine oxygenase [HMT-261 Segetibacter aerophi...   345   4e-93 
+SEQF1451_01601 hypothetical protein [HMT-274 Bacteroidales G-2 b...   268   7e-70 
+SEQF3157_03330 Hercynine oxygenase [HMT-261 Segetibacter aerophi...   124   1e-26 
+SEQF2636_00779 Serine/threonine-protein kinase pkn1 [HMT-286 Tan...   115   6e-24 
+SEQF3068_02370 Serine/threonine-protein kinase pkn1 [HMT-286 Tan...   115   8e-24 
+SEQF2807_00842 Serine/threonine-protein kinase pkn1 [HMT-286 Tan...   115   8e-24 
+SEQF2637_00363 Serine/threonine-protein kinase pkn1 [HMT-286 Tan...   115   8e-24 
+SEQF2635_01959 Serine/threonine-protein kinase pkn1 [HMT-286 Tan...   115   8e-24 
+SEQF2634_00387 Serine/threonine-protein kinase pkn1 [HMT-286 Tan...   115   8e-24 
+SEQF1796_01247 Serine/threonine-protein kinase pkn1 [HMT-785 Por...   115   8e-24 
+SEQF2674_01882 Serine/threonine-protein kinase pkn1 [HMT-785 Por...   114   1e-23 
+SEQF2160_01660 Serine/threonine-protein kinase pkn1 [HMT-547 Por...   114   2e-23 
+SEQF2145_00638 Serine/threonine-protein kinase pkn1 [HMT-547 Por...   114   2e-23 
+SEQF1033_01648 Serine/threonine-protein kinase pkn1 [HMT-273 Por...   113   3e-23 
+SEQF2681_02190 Serine/threonine-protein kinase pkn1 [HMT-665 Pre...   112   4e-23 
+SEQF1915_01491 Serine/threonine-protein kinase pkn1 [HMT-665 Pre...   112   4e-23 
+SEQF2357_00369 Serine/threonine-protein kinase pkn1 [HMT-278 Por...   109   4e-22 
+SEQF2632_00404 Serine/threonine-protein kinase pkn1 [HMT-283 Por...   108   8e-22 
+SEQF1936_00129 Serine/threonine-protein kinase pkn1 [HMT-283 Por...   108   8e-22 
+SEQF1576_01302 Serine/threonine-protein kinase pkn1 [HMT-775 Cap...   108   8e-22 
+SEQF3104_00674 Serine/threonine-protein kinase pkn1 [HMT-808 Tan...   108   1e-21 
+SEQF2738_01895 Serine/threonine-protein kinase pkn1 [HMT-613 Tan...   107   2e-21 
+SEQF1072_01189 Serine/threonine-protein kinase pkn1 [HMT-613 Tan...   107   2e-21 
+SEQF3059_02146 Serine/threonine-protein kinase pkn1 [HMT-878 Cap...   106   4e-21 
+SEQF1900_02650 Serine/threonine-protein kinase pkn1 [HMT-326 Cap...   105   5e-21 
+SEQF1684_01543 Serine/threonine-protein kinase pkn1 [HMT-329 Cap...   105   5e-21 
+SEQF3105_00256 Serine/threonine-protein kinase pkn1 [HMT-808 Tan...   105   6e-21 
+SEQF2788_00463 Serine/threonine-protein kinase pkn1 [HMT-627 Cap...   104   1e-20 
+SEQF1932_02528 Serine/threonine-protein kinase pkn1 [HMT-307 Pre...   104   1e-20 
+SEQF1852_00015 Serine/threonine-protein kinase pkn1 [HMT-298 Pre...   104   1e-20 
+SEQF3055_01050 Serine/threonine-protein kinase pkn1 [HMT-376 Pre...   103   2e-20 
+SEQF1946_02198 Serine/threonine-protein kinase pkn1 [HMT-781 Pre...   103   2e-20 
+SEQF3072_01312 Serine/threonine-protein kinase pkn1 [HMT-820 Pre...   103   2e-20 
+SEQF3063_01645 Serine/threonine-protein kinase pkn1 [HMT-313 Pre...   103   3e-20 
+SEQF1937_02440 Serine/threonine-protein kinase pkn1 [HMT-332 Cap...   102   4e-20 
+SEQF1687_00056 Serine/threonine-protein kinase pkn1 [HMT-338 Cap...   102   4e-20 
+SEQF2319_01128 Serine/threonine-protein kinase pkn1 [HMT-863 Cap...   102   5e-20 
+SEQF1653_01697 Serine/threonine-protein kinase pkn1 [HMT-325 Cap...   102   5e-20 
+SEQF3176_00795 Hercynine oxygenase [HMT-903 Capnocytophaga sp. H...   102   7e-20 
+SEQF3174_01116 Hercynine oxygenase [HMT-902 Capnocytophaga sp. H...   102   7e-20 
+SEQF3058_01647 Serine/threonine-protein kinase pkn1 [HMT-864 Cap...   102   7e-20 
+SEQF2747_01546 Serine/threonine-protein kinase pkn1 [HMT-323 Cap...   102   7e-20 
+SEQF2734_02334 Serine/threonine-protein kinase pkn1 [HMT-469 Pre...   102   7e-20 
+SEQF2733_00779 Serine/threonine-protein kinase pkn1 [HMT-291 Pre...   102   7e-20 
+SEQF2684_01843 Serine/threonine-protein kinase pkn1 [HMT-288 Pre...   102   7e-20 
+SEQF2676_01123 Serine/threonine-protein kinase pkn1 [HMT-291 Pre...   102   7e-20 
+SEQF2563_01828 Serine/threonine-protein kinase pkn1 [HMT-291 Pre...   102   7e-20 
+SEQF2387_01052 Serine/threonine-protein kinase pkn1 [HMT-700 Cap...   102   7e-20 
+SEQF2146_02298 Serine/threonine-protein kinase pkn1 [HMT-291 Pre...   102   7e-20 
+SEQF1986_02345 Serine/threonine-protein kinase pkn1 [HMT-685 Pre...   102   7e-20 
+SEQF1970_00251 Serine/threonine-protein kinase pkn1 [HMT-336 Cap...   102   7e-20 
+SEQF1950_02050 Serine/threonine-protein kinase pkn1 [HMT-380 Cap...   102   7e-20 
+SEQF1938_00627 Serine/threonine-protein kinase pkn1 [HMT-324 Cap...   102   7e-20 
+SEQF1909_01860 Serine/threonine-protein kinase pkn1 [HMT-412 Cap...   102   7e-20 
+SEQF1906_01953 Serine/threonine-protein kinase pkn1 [HMT-335 Cap...   102   7e-20 
+SEQF1691_01351 Serine/threonine-protein kinase pkn1 [HMT-288 Pre...   102   7e-20 
+SEQF1677_00821 Serine/threonine-protein kinase pkn1 [HMT-291 Pre...   102   7e-20 
+SEQF1008_00824 Serine/threonine-protein kinase pkn1 [HMT-700 Cap...   102   7e-20 
+SEQF1006_01671 Serine/threonine-protein kinase pkn1 [HMT-700 Cap...   102   7e-20 
+SEQF2922_00035 Serine/threonine-protein kinase pkn1 [HMT-885 Pre...   101   9e-20 
+SEQF2792_02255 Serine/threonine-protein kinase pkn1 [HMT-600 Pre...   101   9e-20 
+SEQF2686_01165 Serine/threonine-protein kinase pkn1 [HMT-885 Pre...   101   9e-20 
+SEQF2677_02462 Serine/threonine-protein kinase pkn1 [HMT-600 Pre...   101   9e-20 
+SEQF1800_00244 Serine/threonine-protein kinase pkn1 [HMT-469 Pre...   101   9e-20 
+SEQF1899_00688 Serine/threonine-protein kinase pkn1 [HMT-473 All...   101   1e-19 
+SEQF1617_00158 Serine/threonine-protein kinase pkn1 [HMT-472 Pre...   100   2e-19 
+SEQF1602_02227 Serine/threonine-protein kinase pkn1 [HMT-337 Cap...   100   2e-19 
+SEQF2685_02457 Serine/threonine-protein kinase pkn1 [HMT-781 Pre...   100   3e-19 
+SEQF2617_02095 Serine/threonine-protein kinase pkn1 [HMT-693 Pre...   100   3e-19 
+SEQF2461_02418 Serine/threonine-protein kinase pkn1 [HMT-658 Pre...   100   3e-19 
+SEQF1893_01205 Serine/threonine-protein kinase pkn1 [HMT-693 Pre...   100   3e-19 
+SEQF1689_00691 Serine/threonine-protein kinase pkn1 [HMT-693 Pre...   100   3e-19 
+SEQF1142_00280 Serine/threonine-protein kinase pkn1 [HMT-469 Pre...   100   3e-19 
+SEQF2753_01071 Serine/threonine-protein kinase pkn1 [HMT-782 Pre...   100   4e-19 
+SEQF2678_01533 Serine/threonine-protein kinase pkn1 [HMT-782 Pre...   100   4e-19 
+SEQF1989_01845 Serine/threonine-protein kinase pkn1 [HMT-714 Pre...    99   5e-19 
+SEQF1907_01101 Serine/threonine-protein kinase pkn1 [HMT-279 Por...    99   5e-19 
+SEQF2675_00083 Serine/threonine-protein kinase pkn1 [HMT-553 Pre...    99   8e-19 
+SEQF2582_02116 Serine/threonine-protein kinase pkn1 [HMT-553 Pre...    99   8e-19 
+SEQF2683_00456 Serine/threonine-protein kinase pkn1 [HMT-311 Pre...    98   1e-18 
+SEQF2510_01764 Serine/threonine-protein kinase pkn1 [HMT-311 Pre...    98   1e-18 
+SEQF1935_01250 Serine/threonine-protein kinase pkn1 [HMT-303 Pre...    97   2e-18 
+SEQF1656_00952 Serine/threonine-protein kinase pkn1 [HMT-311 Pre...    97   3e-18 
+SEQF3528_01922 Hercynine oxygenase [HMT-643 Prevotella intermedi...    96   5e-18 
+SEQF1934_00213 Serine/threonine-protein kinase pkn1 [HMT-553 Pre...    96   5e-18 
+SEQF2687_01426 Serine/threonine-protein kinase pkn1 [HMT-795 Pre...    95   9e-18 
+SEQF3523_01934 Hercynine oxygenase [HMT-643 Prevotella intermedi...    94   2e-17 
+SEQF3548_01511 Hercynine oxygenase [HMT-643 Prevotella intermedi...    94   3e-17 
+SEQF3544_01334 Hercynine oxygenase [HMT-643 Prevotella intermedi...    94   3e-17 
+SEQF3543_02245 Hercynine oxygenase [HMT-643 Prevotella intermedi...    94   3e-17 
+SEQF3542_01304 Hercynine oxygenase [HMT-643 Prevotella intermedi...    94   3e-17 
+SEQF3541_00287 Hercynine oxygenase [HMT-643 Prevotella intermedi...    94   3e-17 
+SEQF3540_00782 Hercynine oxygenase [HMT-643 Prevotella intermedi...    94   3e-17 
+SEQF3539_00853 Hercynine oxygenase [HMT-643 Prevotella intermedi...    94   3e-17 
+SEQF3538_00404 Hercynine oxygenase [HMT-643 Prevotella intermedi...    94   3e-17 
+SEQF3537_01135 Hercynine oxygenase [HMT-643 Prevotella intermedi...    94   3e-17 
+SEQF3536_00099 Hercynine oxygenase [HMT-643 Prevotella intermedi...    94   3e-17 
+SEQF3534_00153 Hercynine oxygenase [HMT-643 Prevotella intermedi...    94   3e-17 
+SEQF3533_00631 Hercynine oxygenase [HMT-643 Prevotella intermedi...    94   3e-17 
+SEQF3532_01950 Hercynine oxygenase [HMT-643 Prevotella intermedi...    94   3e-17 
+SEQF3531_01567 Hercynine oxygenase [HMT-643 Prevotella intermedi...    94   3e-17 
+SEQF3529_00352 Hercynine oxygenase [HMT-643 Prevotella intermedi...    94   3e-17 
+SEQF3526_00157 Hercynine oxygenase [HMT-643 Prevotella intermedi...    94   3e-17 
+SEQF3525_01162 Hercynine oxygenase [HMT-643 Prevotella intermedi...    94   3e-17 
+SEQF3524_01466 Hercynine oxygenase [HMT-643 Prevotella intermedi...    94   3e-17 
+SEQF3522_02309 Hercynine oxygenase [HMT-643 Prevotella intermedi...    94   3e-17 
+SEQF3521_01042 Hercynine oxygenase [HMT-643 Prevotella intermedi...    94   3e-17 
+SEQF2554_01125 Serine/threonine-protein kinase pkn1 [HMT-643 Pre...    94   3e-17 
+SEQF1065_01240 Serine/threonine-protein kinase pkn1 [HMT-643 Pre...    94   3e-17 
+SEQF3226_00101 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   3e-17 
+SEQF3545_01312 Hercynine oxygenase [HMT-643 Prevotella intermedi...    93   4e-17 
+SEQF3530_01487 Hercynine oxygenase [HMT-643 Prevotella intermedi...    93   4e-17 
+SEQF3225_01380 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3224_01626 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3223_00696 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3222_00340 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3221_01478 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3220_01395 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3219_00526 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3218_00038 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3217_01439 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3216_00760 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3215_00406 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3214_00462 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3213_01176 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3212_00742 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3211_01676 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3210_01329 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3209_01289 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3208_00415 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3207_00183 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3206_01926 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3205_00700 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3204_00338 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3203_01545 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3202_00575 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3201_01091 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3200_00515 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3199_01220 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3198_01186 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3197_00957 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3196_00825 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3195_00612 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3194_00110 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3193_00580 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3192_01551 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3191_00631 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3190_00480 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3189_00545 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3188_01787 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3187_00853 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3186_00304 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3185_00896 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3184_01407 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3183_00069 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF3182_00681 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    93   4e-17 
+SEQF2799_00018 Serine/threonine-protein kinase pkn1 [HMT-619 Por...    93   4e-17 
+SEQF2798_01600 Serine/threonine-protein kinase pkn1 [HMT-619 Por...    93   4e-17 
+SEQF2797_01670 Serine/threonine-protein kinase pkn1 [HMT-619 Por...    93   4e-17 
+SEQF2743_01261 Serine/threonine-protein kinase pkn1 [HMT-619 Por...    93   4e-17 
+SEQF2742_01567 Serine/threonine-protein kinase pkn1 [HMT-619 Por...    93   4e-17 
+SEQF2741_01622 Serine/threonine-protein kinase pkn1 [HMT-619 Por...    93   4e-17 
+SEQF2740_02079 Serine/threonine-protein kinase pkn1 [HMT-619 Por...    93   4e-17 
+SEQF2616_01684 Serine/threonine-protein kinase pkn1 [HMT-619 Por...    93   4e-17 
+SEQF2507_01281 Serine/threonine-protein kinase pkn1 [HMT-619 Por...    93   4e-17 
+SEQF2458_00160 Serine/threonine-protein kinase pkn1 [HMT-619 Por...    93   4e-17 
+SEQF2457_00022 Serine/threonine-protein kinase pkn1 [HMT-619 Por...    93   4e-17 
+SEQF2447_00997 Serine/threonine-protein kinase pkn1 [HMT-619 Por...    93   4e-17 
+SEQF2392_00971 Serine/threonine-protein kinase pkn1 [HMT-619 Por...    93   4e-17 
+SEQF2366_00220 Serine/threonine-protein kinase pkn1 [HMT-619 Por...    93   4e-17 
+SEQF2356_01728 Serine/threonine-protein kinase pkn1 [HMT-619 Por...    93   4e-17 
+SEQF2355_01666 Serine/threonine-protein kinase pkn1 [HMT-619 Por...    93   4e-17 
+SEQF1975_01288 Serine/threonine-protein kinase pkn1 [HMT-619 Por...    93   4e-17 
+SEQF1538_01637 Serine/threonine-protein kinase pkn1 [HMT-619 Por...    93   4e-17 
+SEQF1064_00267 Serine/threonine-protein kinase pkn1 [HMT-619 Por...    93   4e-17 
+SEQF2149_01409 Serine/threonine-protein kinase pkn1 [HMT-307 Pre...    92   7e-17 
+SEQF2022_00573 Serine/threonine-protein kinase pkn1 [HMT-583 Pre...    91   1e-16 
+SEQF1987_00340 Serine/threonine-protein kinase pkn1 [HMT-794 Pre...    91   1e-16 
+SEQF3074_01374 Serine/threonine-protein kinase pkn1 [HMT-314 Pre...    91   2e-16 
+SEQF2680_01679 Serine/threonine-protein kinase pkn1 [HMT-289 Pre...    91   2e-16 
+SEQF2508_02043 Serine/threonine-protein kinase pkn1 [HMT-289 Pre...    91   2e-16 
+SEQF2147_01759 Serine/threonine-protein kinase pkn1 [HMT-289 Pre...    91   2e-16 
+SEQF1451_01439 Serine/threonine-protein kinase pkn1 [HMT-274 Bac...    90   3e-16 
+SEQF2732_01213 Serine/threonine-protein kinase pkn1 [HMT-562 Pre...    89   5e-16 
+SEQF2731_02196 Serine/threonine-protein kinase pkn1 [HMT-562 Pre...    89   5e-16 
+SEQF1799_00694 Serine/threonine-protein kinase pkn1 [HMT-562 Pre...    89   5e-16 
+SEQF1477_01218 Serine/threonine-protein kinase pkn1 [HMT-317 Pre...    89   5e-16 
+SEQF2618_02054 Serine/threonine-protein kinase pkn1 [HMT-705 Pre...    88   1e-15 
+SEQF2523_01124 Serine/threonine-protein kinase pkn1 [HMT-705 Pre...    88   1e-15 
+SEQF1988_01282 Serine/threonine-protein kinase pkn1 [HMT-705 Pre...    88   1e-15 
+SEQF1452_01976 Serine/threonine-protein kinase pkn1 [HMT-299 Pre...    86   5e-15 
+SEQF2682_02045 Serine/threonine-protein kinase pkn1 [HMT-378 Pre...    86   7e-15 
+SEQF2509_00323 Serine/threonine-protein kinase pkn1 [HMT-378 Pre...    86   7e-15 
+SEQF1863_00565 Serine/threonine-protein kinase pkn1 [HMT-378 Pre...    86   7e-15 
+SEQF3547_00864 Hercynine oxygenase [HMT-643 Prevotella intermedi...    84   2e-14 
+SEQF3546_01354 Hercynine oxygenase [HMT-643 Prevotella intermedi...    84   2e-14 
+SEQF3527_01523 Hercynine oxygenase [HMT-643 Prevotella intermedi...    84   2e-14 
+SEQF1985_00291 Serine/threonine-protein kinase pkn1 [HMT-560 Pre...    84   2e-14 
+SEQF1798_00999 Serine/threonine-protein kinase pkn1 [HMT-560 Pre...    84   2e-14 
+SEQF2688_00953 Serine/threonine-protein kinase pkn1 [HMT-572 Pre...    82   6e-14 
+SEQF2511_02170 Serine/threonine-protein kinase pkn1 [HMT-572 Pre...    82   6e-14 
+SEQF1887_00971 Serine/threonine-protein kinase pkn1 [HMT-306 Pre...    82   6e-14 
+SEQF1663_00851 Serine/threonine-protein kinase pkn1 [HMT-572 Pre...    82   6e-14 
+SEQF1597_00731 Serine/threonine-protein kinase pkn1 [HMT-466 All...    81   2e-13 
+SEQF3535_00885 Hercynine oxygenase [HMT-643 Prevotella intermedi...    80   3e-13 
+SEQF3090_00591 Serine/threonine-protein kinase pkn1 [HMT-943 Pre...    77   2e-12 
+SEQF1671_01599 Serine/threonine-protein kinase pkn1 [HMT-302 All...    75   9e-12 
+SEQF1025_04345 Serine/threonine-protein kinase pkn1 [HMT-659 Mes...    72   6e-11 
+SEQF3157_03123 Formylglycine-generating enzyme [HMT-261 Segetiba...    70   3e-10 
+SEQF2679_01046 Hercynine oxygenase [HMT-298 Prevotella histicola...    70   4e-10 
+SEQF2757_01612 hypothetical protein [HMT-769 Treponema socranski...    69   5e-10 
+SEQF3148_01822 Formylglycine-generating enzyme [HMT-636 Bosea ve...    69   9e-10 
+SEQF1942_00852 Serine/threonine-protein kinase pkn1 [HMT-769 Tre...    68   1e-09 
+SEQF2757_00140 Serine/threonine-protein kinase pkn1 [HMT-769 Tre...    67   3e-09 
+SEQF1451_01496 Serine/threonine-protein kinase pkn1 [HMT-274 Bac...    67   3e-09 
+SEQF3054_00949 Hercynine oxygenase [HMT-935 Fastidiosipila sangu...    66   6e-09 
+SEQF3086_00486 Serine/threonine-protein kinase pkn1 [HMT-342 Nov...    64   2e-08 
+SEQF2771_00091 Serine/threonine-protein kinase pkn1 [HMT-743 Tre...    64   3e-08 
+SEQF2487_02883 Serine/threonine-protein kinase pkn1 [HMT-597 Bra...    63   4e-08 
+SEQF1942_01764 Serine/threonine-protein kinase pkn1 [HMT-769 Tre...    63   4e-08 
+SEQF2771_00526 Serine/threonine-protein kinase pkn1 [HMT-743 Tre...    63   5e-08 
+SEQF1872_01504 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    62   6e-08 
+SEQF1871_00682 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    62   6e-08 
+SEQF1451_01495 Serine/threonine-protein kinase pkn1 [HMT-274 Bac...    62   6e-08 
+SEQF2610_03691 Serine/threonine-protein kinase pkn1 [HMT-343 Ach...    62   1e-07 
+SEQF2546_05436 Serine/threonine-protein kinase pkn1 [HMT-343 Ach...    62   1e-07 
+SEQF2030_02642 Serine/threonine-protein kinase pkn1 [HMT-343 Ach...    62   1e-07 
+SEQF2058_00689 Serine/threonine-protein kinase pkn1 [HMT-858 Com...    61   2e-07 
+SEQF2672_00697 Serine/threonine-protein kinase pkn1 [HMT-692 Myc...    60   2e-07 
+SEQF2029_05753 Serine/threonine-protein kinase pkn1 [HMT-343 Ach...    60   2e-07 
+SEQF1679_02165 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    60   2e-07 
+SEQF1869_02068 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    60   3e-07 
+SEQF3223_01867 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    59   5e-07 
+SEQF3207_00614 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    59   5e-07 
+SEQF2603_03613 Serine/threonine-protein kinase pkn1 [HMT-854 Ral...    59   5e-07 
+SEQF2487_07688 Serine/threonine-protein kinase pkn1 [HMT-597 Bra...    59   5e-07 
+SEQF1658_00840 Serine/threonine-protein kinase pkn1 [HMT-786 Pae...    59   7e-07 
+SEQF3549_00459 hypothetical protein [HMT-584 Treponema denticola...    59   9e-07 
+SEQF3185_01726 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    59   9e-07 
+SEQF2462_01243 Serine/threonine-protein kinase pkn1 [HMT-653 Tre...    59   9e-07 
+SEQF2462_01022 Serine/threonine-protein kinase pkn1 [HMT-653 Tre...    59   9e-07 
+SEQF2355_00192 Serine/threonine-protein kinase pkn1 [HMT-619 Por...    59   9e-07 
+SEQF1087_04615 Serine/threonine-protein kinase pkn1 [HMT-485 Agr...    59   9e-07 
+SEQF3065_05115 Serine/threonine-protein kinase pkn1 [HMT-921 Pae...    58   1e-06 
+SEQF2880_04220 Serine/threonine-protein kinase pkn1 [HMT-921 Pae...    58   1e-06 
+SEQF1876_01013 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    58   1e-06 
+SEQF1875_00888 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    58   1e-06 
+SEQF2462_00258 Serine/threonine-protein kinase pkn1 [HMT-653 Tre...    58   2e-06 
+SEQF2030_03419 Serine/threonine-protein kinase pkn1 [HMT-343 Ach...    58   2e-06 
+SEQF1866_00691 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    58   2e-06 
+SEQF1610_02353 Serine/threonine-protein kinase pkn1 [HMT-029 Tre...    58   2e-06 
+SEQF3195_01238 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    57   2e-06 
+SEQF3191_01751 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    57   2e-06 
+SEQF3182_00291 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    57   2e-06 
+SEQF2771_00527 Serine/threonine-protein kinase pkn1 [HMT-743 Tre...    57   2e-06 
+SEQF2487_07475 Serine/threonine-protein kinase pkn1 [HMT-597 Bra...    57   2e-06 
+SEQF2447_00579 Serine/threonine-protein kinase pkn1 [HMT-619 Por...    57   2e-06 
+SEQF2325_08560 Serine/threonine-protein kinase pkn1 [HMT-597 Bra...    57   2e-06 
+SEQF1877_01583 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    57   2e-06 
+SEQF1874_01073 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    57   2e-06 
+SEQF1867_00227 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    57   2e-06 
+SEQF2803_01187 Serine/threonine-protein kinase pkn1 [HMT-037 Ste...    57   3e-06 
+SEQF2546_03289 Serine/threonine-protein kinase pkn1 [HMT-343 Ach...    57   3e-06 
+SEQF2300_03034 Serine/threonine-protein kinase pkn1 [HMT-663 Ste...    57   3e-06 
+SEQF1947_02148 Serine/threonine-protein kinase pkn1 [HMT-029 Tre...    57   3e-06 
+SEQF1877_01936 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    57   3e-06 
+SEQF1874_00719 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    57   3e-06 
+SEQF1872_00559 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    57   3e-06 
+SEQF1871_02328 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    57   3e-06 
+SEQF1867_02512 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    57   3e-06 
+SEQF1866_00292 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    57   3e-06 
+SEQF1865_01413 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    57   3e-06 
+SEQF1679_00882 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    57   3e-06 
+SEQF2462_01708 Serine/threonine-protein kinase pkn1 [HMT-653 Tre...    57   3e-06 
+SEQF1926_05307 Serine/threonine-protein kinase pkn1 [HMT-343 Ach...    57   3e-06 
+SEQF3203_00551 Hercynine oxygenase [HMT-619 Porphyromonas gingiv...    56   4e-06 
+SEQF3148_03474 Hercynine oxygenase [HMT-636 Bosea vestrisii 3192]      56   4e-06 
+SEQF2764_03734 Serine/threonine-protein kinase pkn1 [HMT-659 Mes...    56   4e-06 
+SEQF2462_00721 Serine/threonine-protein kinase pkn1 [HMT-653 Tre...    56   4e-06 
+SEQF2029_00988 Serine/threonine-protein kinase pkn1 [HMT-343 Ach...    56   4e-06 
+SEQF1971_01552 Serine/threonine-protein kinase pkn1 [HMT-186 Mic...    56   4e-06 
+SEQF3167_00122 hypothetical protein [HMT-725 Treponema pectinovo...    56   6e-06 
+SEQF2890_03070 Serine/threonine-protein kinase pkn1 [HMT-368 Die...    56   6e-06 
+SEQF2788_00462 Hercynine oxygenase [HMT-627 Capnocytophaga haemo...    56   6e-06 
+SEQF1878_00896 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    56   6e-06 
+SEQF1876_00059 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    56   6e-06 
+SEQF1875_01851 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    56   6e-06 
+SEQF1864_00967 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    56   6e-06 
+SEQF1061_02154 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    56   6e-06 
+SEQF2515_02426 Serine/threonine-protein kinase pkn1 [HMT-663 Ste...    55   8e-06 
+SEQF2462_02076 Serine/threonine-protein kinase pkn1 [HMT-653 Tre...    55   8e-06 
+SEQF2174_02853 Serine/threonine-protein kinase pkn1 [HMT-663 Ste...    55   8e-06 
+SEQF1926_03229 Serine/threonine-protein kinase pkn1 [HMT-343 Ach...    55   8e-06 
+SEQF2757_02292 hypothetical protein [HMT-769 Treponema socranski...    55   1e-05 
+SEQF2462_02073 Serine/threonine-protein kinase pkn1 [HMT-653 Tre...    55   1e-05 
+SEQF1942_00859 Serine/threonine-protein kinase pkn1 [HMT-769 Tre...    55   1e-05 
+SEQF2771_01213 Serine/threonine-protein kinase pkn1 [HMT-743 Tre...    55   1e-05 
+SEQF2462_01358 Serine/threonine-protein kinase pkn1 [HMT-653 Tre...    55   1e-05 
+SEQF3065_00532 Serine/threonine-protein kinase pkn1 [HMT-921 Pae...    54   2e-05 
+SEQF2880_02714 Serine/threonine-protein kinase pkn1 [HMT-921 Pae...    54   2e-05 
+SEQF2864_02070 Serine/threonine-protein kinase pkn1 [HMT-010 Aci...    54   2e-05 
+SEQF2233_00720 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    54   2e-05 
+SEQF1877_01360 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    54   2e-05 
+SEQF1874_01298 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    54   2e-05 
+SEQF1872_00614 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    54   2e-05 
+SEQF1871_02383 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    54   2e-05 
+SEQF1867_00454 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    54   2e-05 
+SEQF1866_00930 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    54   2e-05 
+SEQF1343_01775 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    54   2e-05 
+SEQF3549_01863 Hercynine oxygenase [HMT-584 Treponema denticola ...    54   2e-05 
+SEQF2487_00542 Serine/threonine-protein kinase pkn1 [HMT-597 Bra...    54   2e-05 
+SEQF2478_03101 Serine/threonine-protein kinase pkn1 [HMT-663 Ste...    54   2e-05 
+SEQF2395_03168 Serine/threonine-protein kinase pkn1 [HMT-663 Ste...    54   2e-05 
+SEQF2325_00684 Serine/threonine-protein kinase pkn1 [HMT-597 Bra...    54   2e-05 
+SEQF1869_00478 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    54   2e-05 
+SEQF1658_02808 Serine/threonine-protein kinase pkn1 [HMT-786 Pae...    54   2e-05 
+SEQF1329_03242 Serine/threonine-protein kinase pkn1 [HMT-663 Ste...    54   2e-05 
+SEQF1059_01698 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    54   2e-05 
+SEQF3159_00958 ATP-dependent zinc metalloprotease FtsH [HMT-213 ...    54   3e-05 
+SEQF2863_03183 Serine/threonine-protein kinase pkn1 [HMT-209 Aci...    54   3e-05 
+SEQF2771_00525 Serine/threonine-protein kinase pkn1 [HMT-743 Tre...    54   3e-05 
+SEQF2059_01443 Serine/threonine-protein kinase pkn1 [HMT-813 Dol...    54   3e-05 
+SEQF1595_01698 Serine/threonine-protein kinase pkn1 [HMT-389 Abi...    54   3e-05 
+SEQF1529_01672 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    54   3e-05 
+SEQF2603_03028 Serine/threonine-protein kinase pkn1 [HMT-854 Ral...    53   4e-05 
+SEQF1942_01727 Serine/threonine-protein kinase pkn1 [HMT-769 Tre...    53   4e-05 
+SEQF2618_02534 Serine/threonine-protein kinase pkn1 [HMT-705 Pre...    53   5e-05 
+SEQF2411_01362 Serine/threonine-protein kinase pkn1 [HMT-559 Afi...    53   5e-05 
+SEQF2303_01043 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF2302_01759 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF2241_00546 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF2232_00756 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF2231_00709 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF2230_00796 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF2229_00772 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF2226_01374 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF1929_01766 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF1878_00923 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    53   5e-05 
+SEQF1864_00940 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    53   5e-05 
+SEQF1642_01818 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF1590_02085 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF1589_01191 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF1588_01324 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF1587_01892 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF1536_01675 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF1531_01626 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF1530_02027 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF1528_01867 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF1525_01414 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF1523_01832 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF1407_00129 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF1405_01612 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF1404_01170 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF1403_00024 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF1400_01155 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF1345_01700 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF1344_01693 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF1295_02555 Serine/threonine-protein kinase pkn1 [HMT-536 Pse...    53   5e-05 
+SEQF1116_01811 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    53   5e-05 
+SEQF1061_02127 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    53   5e-05 
+SEQF3018_00287 Serine/threonine-protein kinase pkn1 [HMT-202 Fus...    52   6e-05 
+SEQF2893_03376 Serine/threonine-protein kinase pkn1 [HMT-216 Aci...    52   6e-05 
+SEQF1878_00662 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   6e-05 
+SEQF1873_01923 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   6e-05 
+SEQF1873_01070 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   6e-05 
+SEQF1864_01201 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   6e-05 
+SEQF1726_01759 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    52   6e-05 
+SEQF1061_02384 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   6e-05 
+SEQF2523_02320 Serine/threonine-protein kinase pkn1 [HMT-705 Pre...    52   8e-05 
+SEQF2423_03837 Serine/threonine-protein kinase pkn1 [HMT-740 Pse...    52   8e-05 
+SEQF1988_00065 Serine/threonine-protein kinase pkn1 [HMT-705 Pre...    52   8e-05 
+SEQF1878_02167 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   8e-05 
+SEQF1877_00466 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   8e-05 
+SEQF1877_00276 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   8e-05 
+SEQF1874_02386 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   8e-05 
+SEQF1874_02194 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   8e-05 
+SEQF1872_01687 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   8e-05 
+SEQF1871_00861 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   8e-05 
+SEQF1870_02324 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   8e-05 
+SEQF1869_02246 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   8e-05 
+SEQF1868_02679 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   8e-05 
+SEQF1867_01528 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   8e-05 
+SEQF1867_01351 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   8e-05 
+SEQF1865_02401 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   8e-05 
+SEQF1864_02264 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   8e-05 
+SEQF1611_00602 Serine/threonine-protein kinase pkn1 [HMT-357 Pyr...    52   8e-05 
+SEQF1330_02843 Hercynine oxygenase [HMT-663 Stenotrophomonas mal...    52   8e-05 
+SEQF1061_00803 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   8e-05 
+SEQF3549_00352 Hercynine oxygenase [HMT-584 Treponema denticola ...    52   1e-04 
+SEQF2299_00770 Serine/threonine-protein kinase pkn1 [HMT-822 Myc...    52   1e-04 
+SEQF2283_00758 Serine/threonine-protein kinase pkn1 [HMT-822 Myc...    52   1e-04 
+SEQF1877_01897 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   1e-04 
+SEQF1875_01853 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   1e-04 
+SEQF1874_00758 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   1e-04 
+SEQF1873_00883 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   1e-04 
+SEQF1870_00680 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   1e-04 
+SEQF1869_01213 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   1e-04 
+SEQF1868_01041 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   1e-04 
+SEQF1867_02551 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   1e-04 
+SEQF1679_02356 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    52   1e-04 
+SEQF1132_00758 Serine/threonine-protein kinase pkn1 [HMT-822 Myc...    52   1e-04 
+SEQF1130_00758 Serine/threonine-protein kinase pkn1 [HMT-822 Myc...    52   1e-04 
+SEQF1129_00761 Serine/threonine-protein kinase pkn1 [HMT-822 Myc...    52   1e-04 
+SEQF1096_00757 Serine/threonine-protein kinase pkn1 [HMT-822 Myc...    52   1e-04 
+SEQF1034_00760 Serine/threonine-protein kinase pkn1 [HMT-822 Myc...    52   1e-04 
+SEQF1032_00766 Serine/threonine-protein kinase pkn1 [HMT-822 Myc...    52   1e-04 
+SEQF2462_00058 Serine/threonine-protein kinase pkn1 [HMT-653 Tre...    51   1e-04 
+SEQF1870_02646 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    51   1e-04 
+SEQF1868_00251 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    51   1e-04 
+SEQF1865_00033 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    51   1e-04 
+SEQF1384_01133 Serine/threonine-protein kinase pkn1 [HMT-554 Aci...    51   1e-04 
+SEQF2462_01757 Serine/threonine-protein kinase pkn1 [HMT-653 Tre...    51   2e-04 
+SEQF2462_01198 Serine/threonine-protein kinase pkn1 [HMT-653 Tre...    51   2e-04 
+SEQF1941_02083 Serine/threonine-protein kinase pkn1 [HMT-664 Tre...    51   2e-04 
+SEQF1878_01958 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    51   2e-04 
+SEQF1870_00950 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    51   2e-04 
+SEQF1868_01310 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    51   2e-04 
+SEQF1865_01104 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    51   2e-04 
+SEQF1864_02475 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    51   2e-04 
+SEQF1605_00207 Serine/threonine-protein kinase pkn1 [HMT-534 Gra...    51   2e-04 
+SEQF1061_01011 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    51   2e-04 
+SEQF3549_02553 hypothetical protein [HMT-584 Treponema denticola...    50   2e-04 
+SEQF3549_00809 hypothetical protein [HMT-584 Treponema denticola...    50   2e-04 
+SEQF2486_00699 Serine/threonine-protein kinase pkn1 [HMT-041 Des...    50   2e-04 
+SEQF1940_01122 Serine/threonine-protein kinase pkn1 [HMT-667 Tre...    50   2e-04 
+SEQF1878_02034 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   2e-04 
+SEQF1877_00617 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   2e-04 
+SEQF1874_02043 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   2e-04 
+SEQF1873_01135 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   2e-04 
+SEQF1869_02384 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   2e-04 
+SEQF1869_00821 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   2e-04 
+SEQF1867_01199 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   2e-04 
+SEQF1866_01657 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   2e-04 
+SEQF1864_02398 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   2e-04 
+SEQF1679_00029 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   2e-04 
+SEQF1160_00245 Serine/threonine-protein kinase pkn1 [HMT-201 Fus...    50   2e-04 
+SEQF1061_00935 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   2e-04 
+SEQF2985_01113 ATP-dependent zinc metalloprotease FtsH [HMT-203 ...    50   3e-04 
+SEQF2586_06652 Serine/threonine-protein kinase pkn1 [HMT-717 Var...    50   3e-04 
+SEQF2381_05426 hypothetical protein [HMT-612 Pseudomonas fluores...    50   3e-04 
+SEQF2332_05379 hypothetical protein [HMT-612 Pseudomonas fluores...    50   3e-04 
+SEQF1989_01685 Serine/threonine-protein kinase pkn1 [HMT-714 Pre...    50   3e-04 
+SEQF1878_02447 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   3e-04 
+SEQF1877_00533 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   3e-04 
+SEQF1874_02127 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   3e-04 
+SEQF1872_01892 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   3e-04 
+SEQF1872_01430 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   3e-04 
+SEQF1871_01066 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   3e-04 
+SEQF1871_00608 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   3e-04 
+SEQF1869_01992 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   3e-04 
+SEQF1867_01283 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   3e-04 
+SEQF1866_01727 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   3e-04 
+SEQF1864_01986 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   3e-04 
+SEQF1061_00527 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   3e-04 
+SEQF2757_01793 Serine/threonine-protein kinase pkn1 [HMT-769 Tre...    50   4e-04 
+SEQF1866_02358 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    50   4e-04 
+SEQF3145_01244 Formylglycine-generating enzyme [HMT-708 Actinomy...    49   5e-04 
+SEQF2555_01459 ATP-dependent zinc metalloprotease FtsH [HMT-201 ...    49   5e-04 
+SEQF2549_00754 Serine/threonine-protein kinase pkn1 [HMT-801 Ent...    49   5e-04 
+SEQF2526_02681 Serine/threonine-protein kinase pkn1 [HMT-716 Lac...    49   5e-04 
+SEQF1878_02062 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    49   5e-04 
+SEQF1872_01790 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    49   5e-04 
+SEQF1871_00964 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    49   5e-04 
+SEQF1869_02354 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    49   5e-04 
+SEQF1865_02180 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    49   5e-04 
+SEQF1864_02369 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    49   5e-04 
+SEQF1679_02465 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    49   5e-04 
+SEQF1622_02675 Serine/threonine-protein kinase pkn1 [HMT-554 Aci...    49   5e-04 
+SEQF1486_02298 Serine/threonine-protein kinase pkn1 [HMT-554 Aci...    49   5e-04 
+SEQF1485_01067 Serine/threonine-protein kinase pkn1 [HMT-554 Aci...    49   5e-04 
+SEQF1398_00988 Serine/threonine-protein kinase pkn1 [HMT-554 Aci...    49   5e-04 
+SEQF1164_02757 Serine/threonine-protein kinase pkn1 [HMT-554 Aci...    49   5e-04 
+SEQF1061_00906 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    49   5e-04 
+SEQF3065_04167 Serine/threonine-protein kinase pkn1 [HMT-921 Pae...    49   7e-04 
+SEQF2921_01183 Serine/threonine-protein kinase pkn1 [HMT-439 Ana...    49   7e-04 
+SEQF2813_01618 hypothetical protein [HMT-202 Fusobacterium nucle...    49   7e-04 
+SEQF2714_01246 Serine/threonine-protein kinase pkn1 [HMT-740 Pse...    49   7e-04 
+SEQF2555_01650 Serine/threonine-protein kinase pkn1 [HMT-201 Fus...    49   7e-04 
+SEQF2501_00179 ATP-dependent zinc metalloprotease FtsH [HMT-214 ...    49   7e-04 
+SEQF2462_01799 Serine/threonine-protein kinase pkn1 [HMT-653 Tre...    49   7e-04 
+SEQF2307_00660 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    49   7e-04 
+SEQF1876_00384 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    49   7e-04 
+SEQF1875_01519 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    49   7e-04 
+SEQF1866_01977 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    49   7e-04 
+SEQF1527_00937 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    49   7e-04 
+SEQF1526_01653 Serine/threonine-protein kinase pkn1 [HMT-734 Str...    49   7e-04 
+SEQF1075_01620 hypothetical protein [HMT-202 Fusobacterium nucle...    49   7e-04 
+SEQF3549_00915 hypothetical protein [HMT-584 Treponema denticola...    49   0.001 
+SEQF2843_00479 ATP-dependent zinc metalloprotease FtsH [HMT-953 ...    49   0.001 
+SEQF2617_02273 Serine/threonine-protein kinase pkn1 [HMT-693 Pre...    49   0.001 
+SEQF2594_02116 Serine/threonine-protein kinase pkn1 [HMT-179 Act...    49   0.001 
+SEQF2462_00443 Serine/threonine-protein kinase pkn1 [HMT-653 Tre...    49   0.001 
+SEQF2452_02233 ATP-dependent zinc metalloprotease FtsH [HMT-225 ...    49   0.001 
+SEQF2266_01688 Serine/threonine-protein kinase pkn1 [HMT-828 Bor...    49   0.001 
+SEQF1940_00705 Serine/threonine-protein kinase pkn1 [HMT-667 Tre...    49   0.001 
+SEQF1893_00995 Serine/threonine-protein kinase pkn1 [HMT-693 Pre...    49   0.001 
+SEQF1879_01175 ATP-dependent zinc metalloprotease FtsH [HMT-370 ...    49   0.001 
+SEQF1878_01053 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    49   0.001 
+SEQF1864_00809 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    49   0.001 
+SEQF1689_00987 Serine/threonine-protein kinase pkn1 [HMT-693 Pre...    49   0.001 
+SEQF1618_00945 ATP-dependent zinc metalloprotease FtsH [HMT-222 ...    49   0.001 
+SEQF1610_02150 Serine/threonine-protein kinase pkn1 [HMT-029 Tre...    49   0.001 
+SEQF1086_01665 Serine/threonine-protein kinase pkn1 [HMT-828 Bor...    49   0.001 
+SEQF1061_02000 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    49   0.001 
+SEQF2842_02256 ATP-dependent zinc metalloprotease FtsH [HMT-953 ...    48   0.001 
+SEQF1876_01162 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    48   0.001 
+SEQF1875_00739 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    48   0.001 
+SEQF1872_00284 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    48   0.001 
+SEQF1871_02051 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    48   0.001 
+SEQF1679_02574 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    48   0.001 
+SEQF1399_00591 Serine/threonine-protein kinase pkn1 [HMT-733 Chl...    48   0.001 
+SEQF1182_00149 Serine/threonine-protein kinase pkn1 [HMT-733 Chl...    48   0.001 
+SEQF1181_00149 Serine/threonine-protein kinase pkn1 [HMT-733 Chl...    48   0.001 
+SEQF1180_00152 Serine/threonine-protein kinase pkn1 [HMT-733 Chl...    48   0.001 
+SEQF1179_00610 Serine/threonine-protein kinase pkn1 [HMT-733 Chl...    48   0.001 
+SEQF2908_04665 Serine/threonine-protein kinase pkn1 [HMT-244 Ros...    48   0.002 
+SEQF2529_00491 hypothetical protein [HMT-201 Fusobacterium perio...    48   0.002 
+SEQF1940_01798 Kappa-carrageenase [HMT-667 Treponema medium ATCC...    48   0.002 
+SEQF1940_01297 Serine/threonine-protein kinase pkn1 [HMT-667 Tre...    48   0.002 
+SEQF1942_00581 Serine/threonine-protein kinase pkn1 [HMT-769 Tre...    47   0.002 
+SEQF1872_00242 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    47   0.002 
+SEQF1871_02009 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    47   0.002 
+SEQF2555_02045 Serine/threonine-protein kinase pkn1 [HMT-201 Fus...    47   0.003 
+SEQF1877_00170 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    47   0.003 
+SEQF1876_01702 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    47   0.003 
+SEQF1875_00142 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    47   0.003 
+SEQF1874_02492 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    47   0.003 
+SEQF1867_01633 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    47   0.003 
+SEQF1646_00460 Serine/threonine-protein kinase pkn1 [HMT-272 Bac...    47   0.003 
+SEQF3166_01126 Hercynine oxygenase [HMT-725 Treponema pectinovor...    47   0.004 
+SEQF3165_00651 Hercynine oxygenase [HMT-725 Treponema pectinovor...    47   0.004 
+SEQF2757_01056 Serine/threonine-protein kinase pkn1 [HMT-769 Tre...    47   0.004 
+SEQF2676_01124 hypothetical protein [HMT-291 Prevotella denticol...    47   0.004 
+SEQF2462_00360 Serine/threonine-protein kinase pkn1 [HMT-653 Tre...    47   0.004 
+SEQF1961_01664 Serine/threonine-protein kinase pkn1 [HMT-801 Ent...    47   0.004 
+SEQF1877_01611 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    47   0.004 
+SEQF1874_01045 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    47   0.004 
+SEQF1867_00199 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    47   0.004 
+SEQF1865_00848 Hercynine oxygenase [HMT-584 Treponema denticola ...    47   0.004 
+SEQF1160_01271 Serine/threonine-protein kinase pkn1 [HMT-201 Fus...    47   0.004 
+SEQF1072_01089 Serine/threonine-protein kinase pkn1 [HMT-613 Tan...    47   0.004 
+SEQF2843_02008 Serine/threonine-protein kinase pkn1 [HMT-953 Fus...    46   0.005 
+SEQF2406_00805 Serine/threonine-protein kinase pkn1 [HMT-201 Fus...    46   0.005 
+SEQF1942_00924 Hercynine oxygenase [HMT-769 Treponema socranskii...    46   0.005 
+SEQF1877_00070 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    46   0.005 
+SEQF1876_00300 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    46   0.005 
+SEQF1875_01613 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    46   0.005 
+SEQF1874_02592 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    46   0.005 
+SEQF1869_00953 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    46   0.005 
+SEQF1867_01733 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    46   0.005 
+SEQF1866_00541 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    46   0.005 
+SEQF2856_03342 Serine/threonine-protein kinase B [HMT-229 Arthro...    46   0.006 
+SEQF1941_00531 Hercynine oxygenase [HMT-664 Treponema maltophilu...    46   0.006 
+SEQF1870_02070 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    46   0.006 
+SEQF1869_00864 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    46   0.006 
+SEQF1868_02424 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    46   0.006 
+SEQF3158_01984 Hercynine oxygenase [HMT-725 Treponema pectinovor...    45   0.008 
+SEQF3025_01739 Serine/threonine-protein kinase pkn1 [HMT-202 Fus...    45   0.008 
+SEQF1877_01735 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    45   0.008 
+SEQF1874_00921 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    45   0.008 
+SEQF1867_00075 Serine/threonine-protein kinase pkn1 [HMT-584 Tre...    45   0.008 
+
+
+  Database: ftp/faa/ALL_genomes.faa
+    Posted date:  Nov 11, 2020 10:17 PM
+  Number of letters in database: 999,999,889
+  Number of sequences in database:  3,250,776
+  
+  Database: ALL_genomes.faa.01
+    Posted date:  Nov 11, 2020 10:17 PM
+  Number of letters in database: 561,442,365
+  Number of sequences in database:  1,791,037
+  
+Lambda     K      H
+   0.314    0.131    0.392 
+
+Gapped
+Lambda     K      H
+   0.267   0.0410    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Hits to DB: 1,871,268,423
+Number of Sequences: 5041813
+Number of extensions: 86740518
+Number of successful extensions: 171545
+Number of sequences better than 1.0e-02: 582
+Number of HSP's better than  0.0 without gapping: 241
+Number of HSP's successfully gapped in prelim test: 341
+Number of HSP's that attempted gapping in prelim test: 169490
+Number of HSP's gapped (non-prelim): 1620
+length of query: 563
+length of database: 1,561,442,254
+effective HSP length: 136
+effective length of query: 427
+effective length of database: 875,755,686
+effective search space: 373947677922
+effective search space used: 373947677922
+T: 11
+A: 40
+X1: 16 ( 7.2 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 42 (21.9 bits)
+S2: 106 (45.4 bits)
+
+
+

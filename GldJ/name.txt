@@ -1,0 +1,23 @@
+>Capnocytophaga gingivalis ATCC 33624
+>Capnocytophaga granulosa ATCC 51502
+>Capnocytophaga sp HMT 338 F0234
+>Capnocytophaga sp HMT 863 F0517
+>Capnocytophaga sp HMT 902 W10638
+>Capnocytophaga sp HMT 323 F0383
+>Capnocytophaga sp HMT 412 F0487
+>Capnocytophaga ochracea str Holt 25
+>Capnocytophaga ochracea F0287
+>Capnocytophaga sp HMT 864 F0512
+>Capnocytophaga sp HMT 336 F0502
+>Capnocytophaga sp HMT 380 F0488
+>Capnocytophaga sp HMT 335 F0486
+>Capnocytophaga ochracea DSM 7271 ATCC 27872 JCM 12966
+>Capnocytophaga sp HMT 903 W10654
+>Capnocytophaga sp HMT 324 F0483
+>Capnocytophaga haemolytica CCUG 32990
+>Capnocytophaga sp HMT 326 F0382
+>Capnocytophaga sputigena ATCC 33612
+>Capnocytophaga sp HMT 332 F0381
+>Capnocytophaga sp HMT 878 F0545
+>Segetibacter aerophilus NBRC 106135
+>Bacteroidales G2 bacterium HMT 274 F0058
