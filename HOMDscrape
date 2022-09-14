@@ -1,0 +1,41 @@
+## This code is specific to homd.org
+### requires homd.org to be version 192.168.0.52
+### requires chromedriver to be 105.0.5195.52
+### requires a list of sequence IDs that you wish to extract from eHOMD, typically a BLAST result
+
+# Module 1
+## extracting sequence identifiers from a BLAST file 
+
+import requests #list of every library used in the code
+import urllib.request
+import time
+import selenium
+from selenium import webdriver
+from selenium.webdriver.chrome.webdriver import WebDriver
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import Select
+import time
+import pandas as pd
+from pandas import DataFrame
+import numpy as np
+
+file=open('Example.txt').read() #Text file taken for HOMD gene blast search. Includes the sequence IDs that are exrtacted from HOMD.  
+
+file1=file.split() #splitting each element in the document at each space
+file1
+
+Final_file= [i for i in file1 if "SEQF" in i] #Searching for elements that begin with 'SEQF' to isolate Sequence IDs.
+Final_file
+
+a=Final_file[0] # getting the species number by selecting the first 8 characters 
+a[0:8]
+
+species=[] # Creating a list for the species numbers 
+for species1 in range(len(Final_file)): 
+    
+    b=Final_file[species1]
+    species.append(b[0:8])
+#species
