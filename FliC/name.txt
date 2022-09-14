@@ -1,0 +1,500 @@
+>Escherichia coli BW2952
+>Escherichia coli BL21DE3
+>Escherichia coli K12 W3110
+>Escherichia coli str K12 substr MG1655
+>Escherichia coli str K12 substr DH10B
+>Escherichia coli O103H2 str 12009
+>Escherichia coli E22
+>Escherichia coli B171 O111NM
+>Escherichia coli IAI39 O7K1
+>Enterobacter hormaechei ATCC 49162
+>Escherichia coli SECEC SMS35
+>Escherichia coli O157H7 str EC869
+>Escherichia coli O157H7 str EC508
+>Escherichia coli O157H7 str EC4501
+>Escherichia coli O157H7 str EC4486
+>Escherichia coli O157H7 str EC4401
+>Escherichia coli O157H7 str EC4206
+>Escherichia coli O157H7 str EC4196
+>Escherichia coli O157H7 str EC4115
+>Escherichia coli O157H7 str EC4113
+>Escherichia coli O157H7 str EC4076
+>Escherichia coli O157H7 str EC4045
+>Escherichia coli O157H7 str EC4042
+>Escherichia coli 0157H7 str Sakai
+>Escherichia coli O157H7 str TW14359
+>Escherichia coli O157H7 EDL933
+>Escherichia coli O157H7 str TW14588
+>Escherichia coli UMN026 O17K52H18
+>Escherichia coli 042
+>Escherichia coli APEC O1
+>Escherichia coli UTI89
+>Escherichia coli S88 O45K1
+>Escherichia coli O127H6 str E234869
+>Escherichia coli SE11
+>Escherichia coli B7A O148H28CS6LT+ST+
+>Escherichia coli IAI1 O8
+>Escherichia coli 83972
+>Escherichia coli LF82
+>Escherichia coli CFT073
+>Escherichia coli 53638
+>Escherichia coli 536
+>Escherichia coli F11
+>Escherichia coli E24377A
+>Enterobacter cancerogenus YZ1
+>Kluyvera ascorbata ATCC 33433
+>Escherichia coli 1011
+>Escherichia coli ED1a O81
+>Escherichia coli O26H11 str 11368
+>Escherichia coli O111H str 11128
+>Achromobacter xylosoxidans A8
+>Escherichia coli C str ATCC 8739
+>Klebsiella aerogenes kctc2190
+>Achromobacter xylosoxidans NH447841996
+>Achromobacter xylosoxidans C54
+>Achromobacter xylosoxidans AXXA
+>Achromobacter xylosoxidans AXXA
+>Achromobacter xylosoxidans NBRC 15126  ATCC 27061
+>Achromobacter xylosoxidans NH447841996
+>Variovorax paradoxus S110
+>Achromobacter xylosoxidans NBRC 15126  ATCC 27061
+>Ralstonia pickettii DTP0602
+>Escherichia coli E110019 O111H9
+>Cupriavidus gilardii cr3
+>Enterobacter cancerogenus YZ1
+>Enterobacter hormaechei ATCC 49162
+>Achromobacter xylosoxidans C54
+>Enterobacter cancerogenus YZ1
+>Escherichia coli HS
+>Variovorax paradoxus B4
+>Escherichia coli 55989
+>Yersinia pestis Z176003
+>Yersinia pestis D182038
+>Yersinia pestis D106004
+>Yersinia pestis A1122
+>Yersinia pestis KIM D27
+>Yersinia pestis biovar Orientalis str PEXU2
+>Yersinia pestis biovar Orientalis str MG051020
+>Yersinia pestis biovar Orientalis str IP275
+>Yersinia pestis biovar Orientalis str India 195
+>Yersinia pestis biovar Orientalis str F1991016
+>Yersinia pestis biovar Medievalis str Harbin 35
+>Yersinia pestis biovar Mediaevalis str K1973002
+>Yersinia pestis biovar Antiqua str UG050454
+>Yersinia pestis biovar Antiqua str E1979001
+>Yersinia pestis biovar Antiqua str B42003004
+>Yersinia pestis Pestoides A
+>Yersinia pestis Nepal516
+>Yersinia pestis CA884125
+>Yersinia pestis Pestoides F
+>Yersinia pestis biovar Microtus str 91001
+>Yersinia pestis Nepal516
+>Yersinia pestis KIM10+
+>Yersinia pestis CO92
+>Yersinia pestis Antiqua JGI
+>Comamonas testosteroni KF1
+>Acidovorax ebreus tpsy
+>Pseudomonas stutzeri TS44
+>Pseudomonas stutzeri A1501 CGMCC 0351
+>Comamonas testosteroni S44
+>Comamonas testosteroni ATCC 11996
+>Pseudomonas pseudoalcaligenes CECT 5344
+>Acidovorax ebreus tpsy
+>Serratia marcescens rsc14
+>Acidovorax caeni R24608
+>Proteus mirabilis BB2000
+>Proteus mirabilis WGLW6
+>Acidovorax caeni R24608
+>Pseudomonas fluorescens F113
+>Comamonas testosteroni ATCC 11996
+>Proteus mirabilis WGLW4
+>Proteus mirabilis ATCC 29906
+>Proteus mirabilis ATCC 29906
+>Proteus mirabilis HI4320
+>Proteus mirabilis BB2000
+>Proteus mirabilis HI4320
+>Stenotrophomonas maltophilia K279a
+>Stenotrophomonas maltophilia AU1209
+>Comamonas testosteroni S44
+>Stenotrophomonas nitritireducens DSM 12575
+>Stenotrophomonas maltophilia K279a
+>Proteus mirabilis WGLW6
+>Stenotrophomonas maltophilia D457
+>Stenotrophomonas maltophilia R5513
+>Comamonas testosteroni KF1
+>Proteus mirabilis WGLW4
+>Achromobacter xylosoxidans NH447841996
+>Achromobacter xylosoxidans NBRC 15126  ATCC 27061
+>Bordetella pertussis CS
+>Bordetella pertussis Tohama I ATCC BAA589 NCTC13251
+>Stenotrophomonas maltophilia AU1209
+>Stenotrophomonas maltophilia JV3
+>Pseudomonas fluorescens SS101
+>Pseudomonas aeruginosa HB15
+>Pseudomonas aeruginosa LESB58
+>Pseudomonas aeruginosa UCBPPPA14
+>Pseudomonas aeruginosa PAO1
+>Stenotrophomonas maltophilia EPM1
+>Pseudomonas stutzeri DSM 4166
+>Stenotrophomonas maltophilia EPM1
+>Stenotrophomonas maltophilia D457
+>Pseudomonas fluorescens SBW25
+>Stenotrophomonas maltophilia JV3
+>Yersinia pestis Angola
+>Stenotrophomonas maltophilia R5513
+>Pseudomonas pseudoalcaligenes AD6
+>Pseudomonas fluorescens WH6
+>Burkholderia cepacia JBK9
+>Enterobacter cancerogenus ATCC 35316
+>Stenotrophomonas maltophilia R5513
+>Stenotrophomonas maltophilia EPM1
+>Pseudomonas aeruginosa PA7
+>Stenotrophomonas nitritireducens DSM 12575
+>Mobiluncus mulieris FB02416
+>Pseudomonas fluorescens A506
+>Lysinibacillus fusiformis ZB2
+>Lysinibacillus fusiformis ZC1
+>Mobiluncus mulieris FB02416
+>Mobiluncus mulieris FB02416
+>Mobiluncus mulieris ATCC 35243
+>Mobiluncus mulieris FB02416
+>Mobiluncus mulieris ATCC 35243
+>Mobiluncus mulieris FB02416
+>Cronobacter sakazakii CMCC 45402
+>Cronobacter sakazakii ATCC BAA894
+>Cronobacter sakazakii ES15
+>Mobiluncus mulieris 281
+>Cronobacter sakazakii SP291
+>Cronobacter sakazakii 680
+>Stenotrophomonas maltophilia K279a
+>Stenotrophomonas maltophilia JV3
+>Lachnospiraceae G8 bacterium HMT500 W11650
+>Stenotrophomonas maltophilia D457
+>Stenotrophomonas maltophilia AU1209
+>Pseudomonas otitidis NA
+>Pseudomonas aeruginosa M18
+>Cronobacter sakazakii ES15
+>Pseudomonas aeruginosa 138244
+>Pseudomonas aeruginosa ATCC 14886
+>Cronobacter sakazakii ATCC BAA894
+>Cronobacter sakazakii 680
+>Cronobacter sakazakii SP291
+>Comamonas testosteroni CNB2
+>Cronobacter sakazakii CMCC 45402
+>Catonella morbi ATCC 51271
+>Desulfovibrio fairfieldensis CCUG 45958
+>Pseudomonas stutzeri ATCC 14405  CCUG 16156
+>Comamonas testosteroni CNB2
+>Pseudomonas aeruginosa ATCC 700888
+>Pseudomonas aeruginosa 39016
+>Pseudomonas aeruginosa NCGM2S1
+>Mobiluncus mulieris ATCC 35239
+>Mobiluncus mulieris ATCC 35239
+>Delftia acidovorans CCUG 274B
+>Schlegelella thermodepolymerans DSM 15344
+>Schlegelella thermodepolymerans DSM 15264
+>Schlegelella thermodepolymerans DSM 15344
+>Delftia acidovorans CCUG 15835
+>Helicobacter pylori India7
+>Helicobacter pylori 9810
+>Helicobacter pylori 52
+>Helicobacter pylori Lithuania75
+>Helicobacter pylori B128
+>Helicobacter pylori J99
+>Helicobacter pylori HPAG1
+>Helicobacter pylori Shi470
+>Mobiluncus mulieris 281
+>Helicobacter pylori P12
+>Helicobacter pylori B38
+>Helicobacter pylori G27
+>Helicobacter pylori 26695
+>Campylobacter showae RM3277
+>Pseudomonas stutzeri CCUG 29243
+>Campylobacter concisus UNSW1
+>Delftia acidovorans SPH1 ATCC15668
+>Campylobacter concisus ATCC 51562
+>Delftia acidovorans 2167 DR66
+>Mitsuokella sp HMT 131 W9106
+>Campylobacter showae CSUNSWCD
+>Mobiluncus mulieris 281
+>Selenomonas sputigena ATCC 35185
+>Selenomonas noxia F0398
+>Selenomonas noxia ATCC 43541
+>Delftia acidovorans SPH1 ATCC15668
+>Pseudomonas fluorescens F113
+>Pseudomonas stutzeri DSM 10701
+>Pseudomonas fluorescens Pf5
+>Pseudomonas fluorescens Pf01
+>Pseudomonas pseudoalcaligenes KF707
+>Helicobacter pylori B128
+>Campylobacter curvus DSM 6644
+>Selenomonas sp HMT 138 F0429
+>Selenomonas sp HMT 920 W5150
+>Helicobacter pylori 52
+>Delftia acidovorans CCUG 274B
+>Selenomonas sp HMT 892 F0426
+>Campylobacter concisus UNSWCD
+>Schlegelella thermodepolymerans DSM 15344
+>Schlegelella thermodepolymerans DSM 15264
+>Schlegelella thermodepolymerans DSM 15344
+>Helicobacter pylori Lithuania75
+>Helicobacter pylori India7
+>Helicobacter pylori B38
+>Helicobacter pylori P12
+>Helicobacter pylori G27
+>Helicobacter pylori J99
+>Helicobacter pylori 26695
+>Selenomonas infelix ATCC 43532
+>Helicobacter pylori 9810
+>Helicobacter pylori HPAG1
+>Campylobacter curvus 52592
+>Helicobacter pylori Shi470
+>Selenomonas sp HMT 478 F0592
+>Delftia acidovorans 2167 DR66
+>Campylobacter concisus ATCC 51561
+>Selenomonas sp HMT 137 F0430
+>Campylobacter showae CC57C
+>Yersinia pestis Angola
+>Selenomonas artemidis DSM 19719
+>Selenomonas sp HMT 138 F0429
+>Selenomonas sp HMT 136 F0591
+>Selenomonas sp HMT 478 F0592
+>Bacillus subtilis subsp natto BEST195
+>Selenomonas sp HMT 149 67H29BP F0410
+>Campylobacter concisus strain 13826
+>Sphingomonas echinoides ATCC 14820
+>Delftia acidovorans CCUG 15835
+>Selenomonas artemidis F0399
+>Selenomonas flueggei ATCC 43531
+>WPS2 bacterium CARN1
+>Lautropia mirabilis ATCC 51599
+>Bacillus subtilis subsp spizizenii TUB10
+>Selenomonas sp HMT 149 67H29BP F0410
+>Bacillus subtilis subsp spizizenii TUB10
+>Novosphingobium panipatense P5ABC
+>Selenomonas artemidis DSM 19719
+>Campylobacter rectus RM3267
+>Selenomonas sp HMT 137 F0430
+>Selenomonas sp HMT 892 F0426
+>Centipeda periodontii DSM 2778
+>Selenomonas artemidis F0399
+>Selenomonas sp HMT 920 W5150
+>Acidovorax caeni R24608
+>Selenomonas sp HMT 136 F0591
+>Selenomonas sp HMT 133 F0473
+>Peptostreptococcaceae XIG7 bacterium HMT 081 W5028
+>Cellulosimicrobium cellulans ORNL0100
+>Selenomonas sp HMT 133 F0473
+>Enterococcus casseliflavus 14MBW14
+>Enterococcus casseliflavus ATCC 12755
+>Enterococcus casseliflavus EC30
+>Bacillus clausii KSMK16
+>Bacillus subtilis subsp subtilis str SC8
+>Bacillus subtilis subsp subtilis RONN1
+>Sanguibacter keddieii DSM 10542
+>Paenibacillus phoenicis D14
+>Peptostreptococcaceae XIG7 bacterium HMT 081 W5028
+>Paenibacillus glucanolyticus W10507
+>Paenibacillus glucanolyticus 5162
+>Selenomonas noxia F0398
+>Selenomonas noxia ATCC 43541
+>Enterococcus saccharolyticus 301
+>Bacillus subtilis subsp spizizenii ATCC 6633
+>Bacillus subtilis subsp spizizenii str W23
+>Centipeda periodontii DSM 2778
+>Selenomonas infelix ATCC 43532
+>Clostridiales F3G1 bacterium HMT 876 F0540
+>Selenomonas flueggei ATCC 43531
+>Bacillus subtilis BSn5
+>Anoxybacillus flavithermus dsm2641t
+>Bacillus subtilis subsp natto BEST195
+>WPS2 bacterium CARN1
+>Clostridiales F3G1 bacterium HMT 876 F0540
+>Neisseria perflava CCH6A12
+>Anoxybacillus flavithermus dsm2641t
+>Burkholderia cepacia GG4
+>Pseudomonas stutzeri ATCC 17588  LMG 11199
+>Fretibacterium fastidiosum SGP1
+>Cellulosimicrobium cellulans ORNL0100
+>Lachnospiraceae G8 bacterium HMT500 W11650
+>Pseudomonas stutzeri DSM 4166
+>Treponema pectinovorum Marseille1CSURP6641
+>Treponema pectinovorum Marseille3CSURP7641
+>Treponema pectinovorum Marseille4CSURP7639
+>Treponema pectinovorum Marseille2CSURP6642
+>Treponema pectinovorum ATCC 700769
+>Selenomonas sp HMT 126 W7667
+>Treponema socranskii ATCC 35536
+>Porphyrobacter tepidarius DSM 10594
+>Treponema socranskii ATCC 35535
+>Treponema socranskii ATCC 35535
+>Treponema pallidum FribourgBlanc
+>Treponema pallidum subsp pallidum str Mexico A
+>Treponema pallidum subsp pallidum str Chicago
+>Catonella morbi ATCC 51271
+>Catonella morbi ATCC 51271
+>Treponema pallidum SS14
+>Treponema pallidum Dallas1
+>Treponema pallidum subsp pertenue str SamoaD
+>Treponema pallidum subsp pertenue str CDC2
+>Treponema pallidum subsp pertenue Gauthier
+>Treponema pallidum str Nichols
+>Treponema lecithinolyticum ATCC 700332
+>Treponema socranskii ATCC 35536
+>Treponema vincentii F0403N9
+>Treponema vincentii ATCC 35580
+>Treponema medium ATCC 700293
+>Treponema denticola SP33F0465
+>Treponema denticola SP32F0464
+>Treponema putidum OMZ 758 ATCC 700334
+>Treponema denticola Marseille5CSURP7640
+>Treponema denticola ATCC 33521
+>Treponema denticola SP44F0466
+>Treponema denticola SP23F0463
+>Treponema denticola AL2F0461
+>Treponema denticola ASLMF0460
+>Treponema denticola USTrepF0459
+>Treponema denticola MYRTF0458
+>Treponema denticola H22F0457
+>Treponema denticola H1TF0456
+>Treponema denticola SP37F0455
+>Treponema denticola OTKF0454
+>Treponema denticola ATCC 33520
+>Treponema denticola ATCC 35404
+>Treponema denticola F0402
+>Treponema denticola ATCC 35405 DSM 14222
+>Treponema pectinovorum Marseille1CSURP6641
+>Treponema pectinovorum Marseille3CSURP7641
+>Treponema pectinovorum Marseille4CSURP7639
+>Treponema pectinovorum Marseille2CSURP6642
+>Treponema pectinovorum ATCC 700769
+>Treponema vincentii F0403N9
+>Treponema medium ATCC 700293
+>Treponema vincentii ATCC 35580
+>Bacillus anthracis str H9401
+>Bacillus anthracis CDC 684
+>Bacillus anthracis A0248
+>Bacillus anthracis str A0488
+>Bacillus anthracis str A0465
+>Bacillus anthracis str A0442
+>Bacillus anthracis str A0389
+>Bacillus anthracis str A0193
+>Bacillus anthracis str A0174
+>Bacillus anthracis TsiankovskiiI
+>Bacillus anthracis Sterne
+>Bacillus anthracis Ames Ancestor
+>Bacillus anthracis Ames
+>Treponema maltophilum ATCC 51939
+>Peptostreptococcaceae XIG7 Eubacterium yurii subsps yurii  margaretiae ATCC 43715
+>Oribacterium asaccharolyticum F0425
+>Comamonas testosteroni ATCC 11996
+>Oribacterium sp HMT 102 W9097
+>Treponema socranskii ATCC 35536
+>Treponema socranskii ATCC 35535
+>Treponema pectinovorum Marseille1CSURP6641
+>Treponema pectinovorum Marseille3CSURP7641
+>Treponema pectinovorum Marseille4CSURP7639
+>Treponema pectinovorum Marseille2CSURP6642
+>Treponema vincentii F0403N9
+>Treponema vincentii ATCC 35580
+>Treponema pectinovorum ATCC 700769
+>Pseudomonas pseudoalcaligenes AD6
+>Pseudomonas stutzeri DSM 10701
+>Peptostreptococcaceae XIG7 bacterium HMT 081 W5028
+>Treponema maltophilum ATCC 51939
+>Treponema medium ATCC 700293
+>Treponema putidum OMZ 758 ATCC 700334
+>Treponema pallidum FribourgBlanc
+>Treponema pallidum subsp pallidum str Mexico A
+>Treponema pallidum subsp pallidum str Chicago
+>Treponema denticola SP33F0465
+>Treponema denticola SP32F0464
+>Fretibacterium fastidiosum SGP1
+>Treponema pallidum Dallas1
+>Treponema pallidum subsp pertenue str SamoaD
+>Treponema pallidum subsp pertenue str CDC2
+>Treponema pallidum subsp pertenue Gauthier
+>Treponema pallidum str Nichols
+>Treponema denticola Marseille5CSURP7640
+>Treponema denticola ATCC 33521
+>Treponema denticola SP44F0466
+>Treponema denticola SP23F0463
+>Treponema denticola ASLMF0460
+>Treponema denticola USTrepF0459
+>Treponema denticola MYRTF0458
+>Treponema denticola H22F0457
+>Treponema denticola H1TF0456
+>Treponema denticola SP37F0455
+>Treponema denticola OTKF0454
+>Treponema denticola ATCC 33520
+>Treponema denticola ATCC 35404
+>Treponema denticola F0402
+>Treponema denticola ATCC 35405 DSM 14222
+>Treponema putidum OMZ 758 ATCC 700334
+>Treponema denticola SP33F0465
+>Treponema denticola SP32F0464
+>Treponema denticola ASLMF0460
+>Treponema denticola USTrepF0459
+>Comamonas testosteroni ATCC 11996
+>Lysinibacillus fusiformis ZB2
+>Treponema denticola AL2F0461
+>Treponema denticola Marseille5CSURP7640
+>Treponema denticola ATCC 33521
+>Treponema denticola SP44F0466
+>Treponema denticola SP23F0463
+>Treponema denticola AL2F0461
+>Treponema denticola MYRTF0458
+>Treponema denticola H22F0457
+>Treponema denticola H1TF0456
+>Treponema denticola SP37F0455
+>Treponema denticola OTKF0454
+>Treponema denticola ATCC 33520
+>Treponema denticola ATCC 35404
+>Treponema denticola F0402
+>Treponema denticola ATCC 35405 DSM 14222
+>Selenomonas sp HMT 126 W7667
+>Desulfovibrio fairfieldensis CCUG 45958
+>Treponema lecithinolyticum ATCC 700332
+>Comamonas testosteroni ATCC 11996
+>Treponema pallidum FribourgBlanc
+>Treponema pallidum subsp pallidum str Mexico A
+>Treponema pallidum subsp pallidum str Chicago
+>Treponema pallidum SS14
+>Treponema pallidum Dallas1
+>Treponema pallidum subsp pertenue str SamoaD
+>Treponema pallidum subsp pertenue str CDC2
+>Treponema pallidum subsp pertenue Gauthier
+>Treponema pallidum str Nichols
+>Lysinibacillus fusiformis ZC1
+>Enterobacter cancerogenus ATCC 35316
+>Escherichia coli O26H11 str 11368
+>Escherichia coli O111H str 11128
+>Escherichia coli SECEC SMS35
+>Escherichia coli C str ATCC 8739
+>Escherichia coli UMN026 O17K52H18
+>Escherichia coli 042
+>Escherichia coli 53638
+>Ralstonia pickettii 12J
+>Ralstonia pickettii 12D
+>Clostridiales F3G1 bacterium HMT 876 F0540
+>Listeria monocytogenes serotype 4a str L99
+>Listeria monocytogenes M7
+>Listeria monocytogenes EGDe
+>Listeria monocytogenes serotype 4b str CLIP 80459
+>Listeria monocytogenes 085923
+>Listeria monocytogenes HCC23
+>Listeria monocytogenes J2818
+>Listeria monocytogenes J0161
+>Listeria monocytogenes HPB2262
+>Listeria monocytogenes Finland 1988
+>Listeria monocytogenes FSL R2503
+>Listeria monocytogenes FSL N3165
+>Listeria monocytogenes FSL N1017
+>Listeria monocytogenes FSL J2071
+>Listeria monocytogenes FSL J1194
+>Listeria monocytogenes F6900
+>Listeria monocytogenes 10403S
+>Listeria monocytogenes 085578
+>Listeria monocytogenes 4b H7858
+>Listeria monocytogenes 4b F2365
+>Listeria monocytogenes 12a F6854

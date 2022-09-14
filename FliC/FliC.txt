@@ -1,0 +1,502 @@
+Sequences producing significant alignments:                      (bits) Value
+
+SEQF1713_01921 Flagellin [HMT-574 Escherichia coli BW2952]            951   0.0   
+SEQF1572_01823 Flagellin [HMT-574 Escherichia coli BL21DE3]           951   0.0   
+SEQF1220_02033 Flagellin [HMT-574 Escherichia coli K12 W3110]         951   0.0   
+SEQF1208_02031 Flagellin [HMT-574 Escherichia coli str. K-12 sub...   951   0.0   
+SEQF1504_02121 Flagellin [HMT-574 Escherichia coli str. K-12 sub...   949   0.0   
+SEQF1712_02294 Flagellin [HMT-574 Escherichia coli O103:H2 str. ...   516   e-144 
+SEQF1197_00574 Flagellin [HMT-574 Escherichia coli E22]               516   e-144 
+SEQF1192_01388 Flagellin [HMT-574 Escherichia coli B171 O111:NM]      516   e-144 
+SEQF1207_01190 Flagellin [HMT-574 Escherichia coli IAI39 O7:K1]       494   e-138 
+SEQF1960_02962 Flagellin [HMT-634 Enterobacter hormaechei ATCC 4...   492   e-137 
+SEQF1519_01261 Flagellin [HMT-574 Escherichia coli SECEC SMS-3-5]     491   e-137 
+SEQF1518_00498 Flagellin [HMT-574 Escherichia coli O157:H7 str. ...   491   e-137 
+SEQF1517_00893 Flagellin [HMT-574 Escherichia coli O157:H7 str. ...   491   e-137 
+SEQF1516_01114 Flagellin [HMT-574 Escherichia coli O157:H7 str. ...   491   e-137 
+SEQF1515_00581 Flagellin [HMT-574 Escherichia coli O157:H7 str. ...   491   e-137 
+SEQF1514_01015 Flagellin [HMT-574 Escherichia coli O157:H7 str. ...   491   e-137 
+SEQF1513_00716 Flagellin [HMT-574 Escherichia coli O157:H7 str. ...   491   e-137 
+SEQF1512_00921 Flagellin [HMT-574 Escherichia coli O157:H7 str. ...   491   e-137 
+SEQF1511_02644 Flagellin [HMT-574 Escherichia coli O157:H7 str. ...   491   e-137 
+SEQF1510_01078 Flagellin [HMT-574 Escherichia coli O157:H7 str. ...   491   e-137 
+SEQF1509_01130 Flagellin [HMT-574 Escherichia coli O157:H7 str. ...   491   e-137 
+SEQF1508_00787 Flagellin [HMT-574 Escherichia coli O157:H7 str. ...   491   e-137 
+SEQF1507_02460 Flagellin [HMT-574 Escherichia coli O157:H7 str. ...   491   e-137 
+SEQF1408_02770 Flagellin [HMT-574 Escherichia coli 0157:H7 str. ...   491   e-137 
+SEQF1247_02645 Flagellin [HMT-574 Escherichia coli O157:H7 str. ...   491   e-137 
+SEQF1213_02878 Flagellin [HMT-574 Escherichia coli O157:H7 EDL933]    491   e-137 
+SEQF1137_04258 Flagellin [HMT-574 Escherichia coli O157:H7 str. ...   491   e-137 
+SEQF1218_02285 Flagellin [HMT-574 Escherichia coli UMN026 O17:K5...   490   e-137 
+SEQF1199_02219 Flagellin [HMT-574 Escherichia coli 042]               490   e-137 
+SEQF1430_02045 Flagellin [HMT-574 Escherichia coli APEC O1]           488   e-136 
+SEQF1219_02052 Flagellin [HMT-574 Escherichia coli UTI89]             488   e-136 
+SEQF1217_01980 Flagellin [HMT-574 Escherichia coli S88 O45:K1]        488   e-136 
+SEQF1624_02153 Flagellin [HMT-574 Escherichia coli O127:H6 str. ...   485   e-135 
+SEQF1376_02228 Flagellin [HMT-574 Escherichia coli SE11]              484   e-135 
+SEQF1193_01801 Flagellin [HMT-574 Escherichia coli B7A O148:H28:...   484   e-135 
+SEQF1206_02019 Flagellin [HMT-574 Escherichia coli IAI1 O8]           483   e-134 
+SEQF1754_04053 Flagellin [HMT-574 Escherichia coli 83972]             482   e-134 
+SEQF1639_02004 Flagellin [HMT-574 Escherichia coli LF82]              482   e-134 
+SEQF1194_02217 Flagellin [HMT-574 Escherichia coli CFT073]            482   e-134 
+SEQF1188_04738 Flagellin [HMT-574 Escherichia coli 53638]             481   e-134 
+SEQF1433_01882 Flagellin [HMT-574 Escherichia coli 536]               481   e-134 
+SEQF1203_01599 Flagellin [HMT-574 Escherichia coli F11]               481   e-134 
+SEQF1198_02150 Flagellin [HMT-574 Escherichia coli E24377A]           480   e-134 
+SEQF2604_03496 Flagellin [HMT-565 Enterobacter cancerogenus YZ1]      475   e-132 
+SEQF2711_02161 Flagellin [HMT-865 Kluyvera ascorbata ATCC 33433]      474   e-132 
+SEQF1186_00793 Flagellin [HMT-574 Escherichia coli 101-1]             450   e-125 
+SEQF1200_02236 Flagellin [HMT-574 Escherichia coli ED1a O81]          431   e-119 
+SEQF1711_02918 Flagellin [HMT-574 Escherichia coli O26:H11 str. ...   426   e-117 
+SEQF1710_02624 Flagellin [HMT-574 Escherichia coli O111:H- str. ...   421   e-116 
+SEQF1926_02733 Flagellin [HMT-343 Achromobacter xylosoxidans A8]      410   e-113 
+SEQF1429_01881 Flagellin [HMT-574 Escherichia coli C str. ATCC 8...   409   e-112 
+SEQF2847_03289 Flagellin [HMT-153 Klebsiella aerogenes kctc_2190]     380   e-104 
+SEQF2546_04277 Flagellin [HMT-343 Achromobacter xylosoxidans NH4...   380   e-104 
+SEQF2030_03508 Flagellin [HMT-343 Achromobacter xylosoxidans C54]     374   e-102 
+SEQF2029_04433 Flagellin [HMT-343 Achromobacter xylosoxidans AXX-A]   374   e-102 
+SEQF2029_00393 Flagellin [HMT-343 Achromobacter xylosoxidans AXX-A]   372   e-101 
+SEQF2610_02427 Flagellin [HMT-343 Achromobacter xylosoxidans NBR...   369   e-100 
+SEQF2546_06282 Flagellin [HMT-343 Achromobacter xylosoxidans NH4...   365   4e-99 
+SEQF1395_04189 Flagellin [HMT-717 Variovorax paradoxus S110]          358   3e-97 
+SEQF2610_04554 Flagellin [HMT-343 Achromobacter xylosoxidans NBR...   357   1e-96 
+SEQF2603_06621 Flagellin 1 [HMT-854 Ralstonia pickettii DTP0602]      354   7e-96 
+SEQF1196_00929 Flagellin [HMT-574 Escherichia coli E110019 O111:H9]   339   2e-91 
+SEQF2854_03638 Flagellin 2 [HMT-027 Cupriavidus gilardii cr3]         331   5e-89 
+SEQF2604_04223 Flagellin [HMT-565 Enterobacter cancerogenus YZ1]      330   1e-88 
+SEQF1960_03455 Flagellin [HMT-634 Enterobacter hormaechei ATCC 4...   323   1e-86 
+SEQF2030_03669 Flagellin [HMT-343 Achromobacter xylosoxidans C54]     318   3e-85 
+SEQF2604_04090 Flagellin [HMT-565 Enterobacter cancerogenus YZ1]      317   7e-85 
+SEQF1205_02006 Flagellin 2 [HMT-574 Escherichia coli HS]              316   2e-84 
+SEQF2586_04325 Flagellin 2 [HMT-717 Variovorax paradoxus B4]          315   4e-84 
+SEQF1189_02212 Flagellin 2 [HMT-574 Escherichia coli 55989]           314   6e-84 
+SEQF2188_02269 Flagellin [HMT-827 Yersinia pestis Z176003]            283   1e-74 
+SEQF2186_02337 Flagellin [HMT-827 Yersinia pestis D182038]            283   1e-74 
+SEQF2185_01971 Flagellin [HMT-827 Yersinia pestis D106004]            283   1e-74 
+SEQF2184_03374 Flagellin [HMT-827 Yersinia pestis A1122]              283   1e-74 
+SEQF1844_00293 Flagellin [HMT-827 Yersinia pestis KIM D27]            283   1e-74 
+SEQF1569_00268 Flagellin [HMT-827 Yersinia pestis biovar Orienta...   283   1e-74 
+SEQF1568_03297 Flagellin [HMT-827 Yersinia pestis biovar Orienta...   283   1e-74 
+SEQF1567_02122 Flagellin [HMT-827 Yersinia pestis biovar Orienta...   283   1e-74 
+SEQF1566_02307 Flagellin [HMT-827 Yersinia pestis biovar Orienta...   283   1e-74 
+SEQF1565_02914 Flagellin [HMT-827 Yersinia pestis biovar Orienta...   283   1e-74 
+SEQF1564_02236 Flagellin [HMT-827 Yersinia pestis biovar Medieva...   283   1e-74 
+SEQF1563_01536 Flagellin [HMT-827 Yersinia pestis biovar Mediaev...   283   1e-74 
+SEQF1562_01694 Flagellin [HMT-827 Yersinia pestis biovar Antiqua...   283   1e-74 
+SEQF1561_01580 Flagellin [HMT-827 Yersinia pestis biovar Antiqua...   283   1e-74 
+SEQF1560_03789 Flagellin [HMT-827 Yersinia pestis biovar Antiqua...   283   1e-74 
+SEQF1559_01187 Flagellin [HMT-827 Yersinia pestis Pestoides A]        283   1e-74 
+SEQF1558_02092 Flagellin [HMT-827 Yersinia pestis Nepal516]           283   1e-74 
+SEQF1556_04431 Flagellin [HMT-827 Yersinia pestis CA88-4125]          283   1e-74 
+SEQF1099_01372 Flagellin [HMT-827 Yersinia pestis Pestoides F]        283   1e-74 
+SEQF1082_01636 Flagellin [HMT-827 Yersinia pestis biovar Microtu...   283   1e-74 
+SEQF1057_02431 Flagellin [HMT-827 Yersinia pestis Nepal516]           283   1e-74 
+SEQF1056_02568 Flagellin [HMT-827 Yersinia pestis KIM10+]             283   1e-74 
+SEQF1055_01921 Flagellin [HMT-827 Yersinia pestis CO92]               283   1e-74 
+SEQF1054_01301 Flagellin [HMT-827 Yersinia pestis Antiqua JGI]        283   1e-74 
+SEQF1981_04753 B-type flagellin [HMT-858 Comamonas testosteroni ...   282   3e-74 
+SEQF2863_03141 B-type flagellin [HMT-209 Acidovorax ebreus tpsy]      277   8e-73 
+SEQF2513_01412 B-type flagellin [HMT-477 Pseudomonas stutzeri TS44]   270   1e-70 
+SEQF1303_01467 B-type flagellin [HMT-477 Pseudomonas stutzeri A1...   268   6e-70 
+SEQF2058_02943 B-type flagellin [HMT-858 Comamonas testosteroni ...   265   5e-69 
+SEQF2057_01700 B-type flagellin [HMT-858 Comamonas testosteroni ...   265   5e-69 
+SEQF2423_02729 B-type flagellin [HMT-740 Pseudomonas oleovorans ...   264   9e-69 
+SEQF2863_03142 B-type flagellin [HMT-209 Acidovorax ebreus tpsy]      262   3e-68 
+SEQF2889_03963 Flagellin 1 [HMT-115 Serratia marcescens rsc_14]       261   8e-68 
+SEQF3073_00442 B-type flagellin [HMT-211 Acidovorax caeni R-24608]    260   1e-67 
+SEQF2572_01709 Flagellin 1 [HMT-676 Proteus mirabilis BB2000]         260   1e-67 
+SEQF2394_01613 Flagellin 2 [HMT-676 Proteus mirabilis WGLW6]          258   4e-67 
+SEQF3073_00443 B-type flagellin [HMT-211 Acidovorax caeni R-24608]    258   5e-67 
+SEQF2169_00779 Flagellin [HMT-612 Pseudomonas fluorescens F113]       257   1e-66 
+SEQF2057_01701 Flagellin [HMT-858 Comamonas testosteroni ATCC 11...   257   1e-66 
+SEQF2393_01573 Flagellin 2 [HMT-676 Proteus mirabilis WGLW4]          256   1e-66 
+SEQF1802_03106 Flagellin 2 [HMT-676 Proteus mirabilis ATCC 29906]     256   1e-66 
+SEQF1802_03105 Flagellin 2 [HMT-676 Proteus mirabilis ATCC 29906]     256   1e-66 
+SEQF1289_01630 Flagellin 2 [HMT-676 Proteus mirabilis HI4320]         256   1e-66 
+SEQF2572_01708 Flagellin 2 [HMT-676 Proteus mirabilis BB2000]         256   3e-66 
+SEQF1289_01629 Flagellin 2 [HMT-676 Proteus mirabilis HI4320]         256   3e-66 
+SEQF1329_02270 A-type flagellin [HMT-663 Stenotrophomonas maltop...   255   3e-66 
+SEQF2515_01607 A-type flagellin [HMT-663 Stenotrophomonas maltop...   255   4e-66 
+SEQF2058_02944 Flagellin [HMT-858 Comamonas testosteroni S44]         255   4e-66 
+SEQF2803_02486 B-type flagellin [HMT-037 Stenotrophomonas nitrit...   254   7e-66 
+SEQF1329_02268 A-type flagellin [HMT-663 Stenotrophomonas maltop...   254   7e-66 
+SEQF2394_01614 Flagellin 1 [HMT-676 Proteus mirabilis WGLW6]          253   2e-65 
+SEQF2300_02190 A-type flagellin [HMT-663 Stenotrophomonas maltop...   253   2e-65 
+SEQF1330_01965 A-type flagellin [HMT-663 Stenotrophomonas maltop...   253   2e-65 
+SEQF1981_04754 Flagellin [HMT-858 Comamonas testosteroni KF-1]        252   3e-65 
+SEQF2393_01574 Flagellin 2 [HMT-676 Proteus mirabilis WGLW4]          250   1e-64 
+SEQF2546_05424 Flagellin [HMT-343 Achromobacter xylosoxidans NH4...   249   3e-64 
+SEQF2610_03663 Flagellin [HMT-343 Achromobacter xylosoxidans NBR...   248   4e-64 
+SEQF2266_01025 Flagellin [HMT-828 Bordetella pertussis CS]            248   4e-64 
+SEQF1086_01002 Flagellin [HMT-828 Bordetella pertussis Tohama I]      248   4e-64 
+SEQF2515_01606 A-type flagellin [HMT-663 Stenotrophomonas maltop...   248   5e-64 
+SEQF2174_02015 A-type flagellin [HMT-663 Stenotrophomonas maltop...   248   5e-64 
+SEQF2381_03822 B-type flagellin [HMT-612 Pseudomonas fluorescens...   247   1e-63 
+SEQF1992_03346 B-type flagellin [HMT-536 Pseudomonas aeruginosa ...   246   2e-63 
+SEQF1619_04414 B-type flagellin [HMT-536 Pseudomonas aeruginosa ...   246   2e-63 
+SEQF1298_04127 B-type flagellin [HMT-536 Pseudomonas aeruginosa ...   246   2e-63 
+SEQF1297_01141 B-type flagellin [HMT-536 Pseudomonas aeruginosa ...   246   2e-63 
+SEQF2478_02115 A-type flagellin [HMT-663 Stenotrophomonas maltop...   245   3e-63 
+SEQF2171_01942 B-type flagellin [HMT-477 Pseudomonas stutzeri DS...   244   8e-63 
+SEQF2478_02114 A-type flagellin [HMT-663 Stenotrophomonas maltop...   244   1e-62 
+SEQF2300_02189 A-type flagellin [HMT-663 Stenotrophomonas maltop...   244   1e-62 
+SEQF1302_04455 B-type flagellin [HMT-612 Pseudomonas fluorescens...   244   1e-62 
+SEQF2174_02014 A-type flagellin [HMT-663 Stenotrophomonas maltop...   243   1e-62 
+SEQF1555_02057 Flagellin [HMT-827 Yersinia pestis Angola]             243   1e-62 
+SEQF1330_01963 A-type flagellin [HMT-663 Stenotrophomonas maltop...   242   3e-62 
+SEQF2714_03210 B-type flagellin [HMT-740 Pseudomonas oleovorans ...   240   1e-61 
+SEQF2196_04246 B-type flagellin [HMT-612 Pseudomonas fluorescens...   236   2e-60 
+SEQF2716_00227 A-type flagellin [HMT-571 Burkholderia cepacia JBK9]   235   5e-60 
+SEQF1481_03913 Flagellin 1 [HMT-565 Enterobacter cancerogenus AT...   233   2e-59 
+SEQF1330_01964 A-type flagellin [HMT-663 Stenotrophomonas maltop...   231   7e-59 
+SEQF2478_02113 A-type flagellin [HMT-663 Stenotrophomonas maltop...   228   6e-58 
+SEQF1295_04132 A-type flagellin [HMT-536 Pseudomonas aeruginosa ...   228   6e-58 
+SEQF2803_02487 B-type flagellin [HMT-037 Stenotrophomonas nitrit...   226   3e-57 
+SEQF2128_01403 B-type flagellin [HMT-830 Mobiluncus mulieris FB0...   217   1e-54 
+SEQF2332_03805 B-type flagellin [HMT-612 Pseudomonas fluorescens...   215   5e-54 
+SEQF2422_04273 A-type flagellin [HMT-614 Lysinibacillus fusiform...   211   9e-53 
+SEQF1920_03203 A-type flagellin [HMT-614 Lysinibacillus fusiform...   211   9e-53 
+SEQF2128_00470 B-type flagellin [HMT-830 Mobiluncus mulieris FB0...   208   5e-52 
+SEQF2128_00009 B-type flagellin [HMT-830 Mobiluncus mulieris FB0...   208   6e-52 
+SEQF1785_00505 B-type flagellin [HMT-830 Mobiluncus mulieris ATC...   208   6e-52 
+SEQF2128_00472 Flagellin [HMT-830 Mobiluncus mulieris FB024-16]       207   1e-51 
+SEQF1785_00507 B-type flagellin [HMT-830 Mobiluncus mulieris ATC...   203   2e-50 
+SEQF2128_00477 Flagellin [HMT-830 Mobiluncus mulieris FB024-16]       199   4e-49 
+SEQF2690_01584 Flagellin [HMT-753 Cronobacter sakazakii CMCC 45402]   198   6e-49 
+SEQF1185_01218 Flagellin [HMT-753 Cronobacter sakazakii ATCC BAA...   198   6e-49 
+SEQF2691_01581 Flagellin [HMT-753 Cronobacter sakazakii ES15]         197   1e-48 
+SEQF1784_01807 B-type flagellin [HMT-830 Mobiluncus mulieris 28-1]    197   1e-48 
+SEQF2692_01301 Flagellin [HMT-753 Cronobacter sakazakii SP291]        196   2e-48 
+SEQF2669_00329 Flagellin [HMT-753 Cronobacter sakazakii 680]          195   4e-48 
+SEQF1329_02269 A-type flagellin [HMT-663 Stenotrophomonas maltop...   195   5e-48 
+SEQF2174_02013 A-type flagellin [HMT-663 Stenotrophomonas maltop...   190   1e-46 
+SEQF3066_01805 Flagellin [HMT-500 Lachnospiraceae_G-8 bacterium_...   190   2e-46 
+SEQF2300_02188 A-type flagellin [HMT-663 Stenotrophomonas maltop...   189   3e-46 
+SEQF2515_01605 A-type flagellin [HMT-663 Stenotrophomonas maltop...   187   9e-46 
+SEQF2695_04947 A-type flagellin [HMT-834 Pseudomonas otitidis NA]     181   6e-44 
+SEQF2167_04088 A-type flagellin [HMT-536 Pseudomonas aeruginosa ...   181   6e-44 
+SEQF2691_02678 Flagellin [HMT-753 Cronobacter sakazakii ES15]         181   8e-44 
+SEQF1991_04619 A-type flagellin [HMT-536 Pseudomonas aeruginosa ...   181   8e-44 
+SEQF2696_04411 A-type flagellin [HMT-536 Pseudomonas aeruginosa ...   181   1e-43 
+SEQF1185_02364 Flagellin [HMT-753 Cronobacter sakazakii ATCC BAA...   181   1e-43 
+SEQF2669_00488 Flagellin [HMT-753 Cronobacter sakazakii 680]          180   2e-43 
+SEQF2692_02376 Flagellin [HMT-753 Cronobacter sakazakii SP291]        179   2e-43 
+SEQF2047_00459 A-type flagellin [HMT-858 Comamonas testosteroni ...   179   3e-43 
+SEQF2690_02740 A-type flagellin [HMT-753 Cronobacter sakazakii C...   178   5e-43 
+SEQF1596_01069 Flagellin [HMT-165 Catonella morbi ATCC 51271]         176   2e-42 
+SEQF2793_00774 Flagellin [HMT-605 Desulfovibrio fairfieldensis C...   176   3e-42 
+SEQF2333_00378 A-type flagellin [HMT-477 Pseudomonas stutzeri AT...   176   3e-42 
+SEQF2047_00458 A-type flagellin [HMT-858 Comamonas testosteroni ...   175   6e-42 
+SEQF2697_04370 A-type flagellin [HMT-536 Pseudomonas aeruginosa ...   172   3e-41 
+SEQF2193_01213 A-type flagellin [HMT-536 Pseudomonas aeruginosa ...   172   4e-41 
+SEQF2168_01989 A-type flagellin [HMT-536 Pseudomonas aeruginosa ...   172   4e-41 
+SEQF2127_02250 Flagellin [HMT-830 Mobiluncus mulieris ATCC 35239]     172   4e-41 
+SEQF2127_02249 Flagellin [HMT-830 Mobiluncus mulieris ATCC 35239]     170   1e-40 
+SEQF2537_02812 Flagellin [HMT-023 Delftia acidovorans CCUG 274B]      169   3e-40 
+SEQF3160_00669 A-type flagellin [HMT-024 Schlegelella thermodepo...   168   5e-40 
+SEQF3156_01068 A-type flagellin [HMT-024 Schlegelella thermodepo...   168   5e-40 
+SEQF3155_01917 A-type flagellin [HMT-024 Schlegelella thermodepo...   168   5e-40 
+SEQF2536_03646 Flagellin [HMT-023 Delftia acidovorans CCUG 15835]     168   7e-40 
+SEQF2409_00113 Flagellin B [HMT-812 Helicobacter pylori India7]       168   7e-40 
+SEQF1351_00128 Flagellin B [HMT-812 Helicobacter pylori 98-10]        168   7e-40 
+SEQF1243_00140 Flagellin B [HMT-812 Helicobacter pylori 52]           168   7e-40 
+SEQF2410_00124 Flagellin B [HMT-812 Helicobacter pylori Lithuani...   166   2e-39 
+SEQF1352_00429 Flagellin B [HMT-812 Helicobacter pylori B128]         166   2e-39 
+SEQF1245_00123 Flagellin B [HMT-812 Helicobacter pylori J99]          166   2e-39 
+SEQF1244_00124 Flagellin B [HMT-812 Helicobacter pylori HPAG1]        166   2e-39 
+SEQF1119_00116 Flagellin B [HMT-812 Helicobacter pylori Shi470]       166   2e-39 
+SEQF1784_02000 Flagellin [HMT-830 Mobiluncus mulieris 28-1]           166   3e-39 
+SEQF1644_00122 Flagellin B [HMT-812 Helicobacter pylori P12]          166   3e-39 
+SEQF1714_00118 Flagellin B [HMT-812 Helicobacter pylori B38]          166   3e-39 
+SEQF1643_00130 Flagellin B [HMT-812 Helicobacter pylori G27]          166   3e-39 
+SEQF1240_00122 Flagellin B [HMT-812 Helicobacter pylori 26695]        166   3e-39 
+SEQF1731_00685 Flagellin A [HMT-763 Campylobacter showae RM3277]      165   5e-39 
+SEQF2382_02371 A-type flagellin [HMT-477 Pseudomonas stutzeri CC...   164   8e-39 
+SEQF2580_00075 Flagellin A [HMT-575 Campylobacter concisus UNSW1]     164   1e-38 
+SEQF1413_00629 Flagellin [HMT-023 Delftia acidovorans SPH-1]          164   1e-38 
+SEQF2579_01734 Flagellin A [HMT-575 Campylobacter concisus ATCC ...   163   2e-38 
+SEQF2709_06073 Flagellin [HMT-023 Delftia acidovorans 2167 DR66]      162   3e-38 
+SEQF2446_02024 Flagellin [HMT-131 Mitsuokella sp._HMT_131 W9106]      162   3e-38 
+SEQF2416_02023 Flagellin A [HMT-763 Campylobacter showae CSUNSWCD]    162   4e-38 
+SEQF1784_02002 Flagellin [HMT-830 Mobiluncus mulieris 28-1]           162   4e-38 
+SEQF1598_00449 Flagellar filament 33 kDa core protein [HMT-151 S...   161   9e-38 
+SEQF1690_00503 Flagellar filament 31 kDa core protein [HMT-130 S...   160   1e-37 
+SEQF1593_01106 Flagellar filament 31 kDa core protein [HMT-130 S...   160   1e-37 
+SEQF1413_00628 Flagellin [HMT-023 Delftia acidovorans SPH-1]          160   1e-37 
+SEQF2169_01640 Flagellin [HMT-612 Pseudomonas fluorescens F113]       160   2e-37 
+SEQF2521_02758 A-type flagellin [HMT-477 Pseudomonas stutzeri DS...   159   2e-37 
+SEQF1300_01666 Flagellin [HMT-612 Pseudomonas fluorescens Pf-5]       159   3e-37 
+SEQF1301_01567 Flagellin [HMT-612 Pseudomonas fluorescens Pf0-1]      159   4e-37 
+SEQF2352_05616 A-type flagellin [HMT-740 Pseudomonas oleovorans ...   158   6e-37 
+SEQF1352_01237 Flagellin A [HMT-812 Helicobacter pylori B128]         158   6e-37 
+SEQF2488_00132 Flagellin A [HMT-580 Campylobacter curvus DSM 6644]    158   7e-37 
+SEQF1951_01334 Flagellin B [HMT-138 Selenomonas sp._HMT_138 F0429]    158   7e-37 
+SEQF2919_02017 Flagellar filament 31 kDa core protein [HMT-920 S...   157   9e-37 
+SEQF1243_00774 Flagellin A [HMT-812 Helicobacter pylori 52]           157   1e-36 
+SEQF2537_02811 Flagellin [HMT-023 Delftia acidovorans CCUG 274B]      157   2e-36 
+SEQF2454_00889 Flagellar filament 31 kDa core protein [HMT-892 S...   156   2e-36 
+SEQF2326_00610 Flagellin A [HMT-575 Campylobacter concisus UNSWCD]    156   3e-36 
+SEQF3160_00668 Flagellin 1 [HMT-024 Schlegelella thermodepolymer...   155   4e-36 
+SEQF3156_01069 Flagellin 1 [HMT-024 Schlegelella thermodepolymer...   155   4e-36 
+SEQF3155_01918 Flagellin 1 [HMT-024 Schlegelella thermodepolymer...   155   4e-36 
+SEQF2410_00585 Flagellin A [HMT-812 Helicobacter pylori Lithuani...   155   4e-36 
+SEQF2409_00708 Flagellin A [HMT-812 Helicobacter pylori India7]       155   4e-36 
+SEQF1714_00749 Flagellin A [HMT-812 Helicobacter pylori B38]          155   4e-36 
+SEQF1644_00623 Flagellin A [HMT-812 Helicobacter pylori P12]          155   4e-36 
+SEQF1643_00602 Flagellin A [HMT-812 Helicobacter pylori G27]          155   4e-36 
+SEQF1245_00579 Flagellin A [HMT-812 Helicobacter pylori J99]          155   4e-36 
+SEQF1240_00628 Flagellin A [HMT-812 Helicobacter pylori 26695]        155   4e-36 
+SEQF1673_01746 Flagellar filament 31 kDa core protein [HMT-639 S...   155   5e-36 
+SEQF1351_01335 Flagellin A [HMT-812 Helicobacter pylori 98-10]        155   5e-36 
+SEQF1244_00590 Flagellin A [HMT-812 Helicobacter pylori HPAG1]        155   5e-36 
+SEQF1178_01725 Flagellin A [HMT-580 Campylobacter curvus 525.92]      155   5e-36 
+SEQF1119_00742 Flagellin A [HMT-812 Helicobacter pylori Shi470]       155   5e-36 
+SEQF2752_00613 Flagellar filament 31 kDa core protein [HMT-478 S...   155   6e-36 
+SEQF2709_06072 Flagellin [HMT-023 Delftia acidovorans 2167 DR66]      155   6e-36 
+SEQF2578_00467 Flagellin A [HMT-575 Campylobacter concisus ATCC ...   154   8e-36 
+SEQF1858_00045 Flagellar filament 31 kDa core protein [HMT-137 S...   154   8e-36 
+SEQF2476_02133 Flagellin A [HMT-763 Campylobacter showae CC57C]       154   1e-35 
+SEQF1555_02060 Flagellin [HMT-827 Yersinia pestis Angola]             154   1e-35 
+SEQF2584_01087 Flagellar filament 31 kDa core protein [HMT-124 S...   154   1e-35 
+SEQF1951_01673 Flagellin D [HMT-138 Selenomonas sp._HMT_138 F0429]    154   1e-35 
+SEQF3060_01619 Flagellin 2 [HMT-136 Selenomonas sp._HMT_136 F0591]    153   2e-35 
+SEQF2752_00496 Flagellin 2 [HMT-478 Selenomonas sp._HMT_478 F0592]    153   2e-35 
+SEQF2039_03821 Flagellin [HMT-468 Bacillus subtilis subsp. natto...   153   2e-35 
+SEQF1914_02020 Flagellin 2 [HMT-149 Selenomonas sp._HMT_149 67H2...   153   2e-35 
+SEQF1177_01838 Flagellin A [HMT-575 Campylobacter concisus strai...   153   2e-35 
+SEQF3079_01972 Flagellin [HMT-003 Sphingomonas glacialis ATCC 14...   152   3e-35 
+SEQF2536_03647 Flagellin [HMT-023 Delftia acidovorans CCUG 15835]     152   3e-35 
+SEQF1697_01573 Flagellar filament 31 kDa core protein [HMT-124 S...   152   5e-35 
+SEQF1616_01949 Flagellar filament 31 kDa core protein [HMT-125 S...   152   5e-35 
+SEQF2736_00039 hypothetical protein [HMT-999 WPS-2_G-1 bacterium...   151   7e-35 
+SEQF1967_01246 Flagellin [HMT-022 Lautropia mirabilis ATCC 51599]     151   7e-35 
+SEQF2290_03724 Flagellin [HMT-468 Bacillus subtilis subsp. spizi...   151   9e-35 
+SEQF1914_01910 Flagellin D [HMT-149 Selenomonas sp._HMT_149 67H2...   151   9e-35 
+SEQF2290_03749 Flagellin [HMT-468 Bacillus subtilis subsp. spizi...   150   2e-34 
+SEQF3086_01664 Flagellin [HMT-342 Novosphingobium panipatense P5...   150   2e-34 
+SEQF2584_00220 Flagellin B [HMT-124 Selenomonas artemidis DSM 19...   150   2e-34 
+SEQF1575_00382 Flagellin A [HMT-748 Campylobacter rectus RM3267]      149   3e-34 
+SEQF1858_00383 Flagellin B [HMT-137 Selenomonas sp._HMT_137 F0430]    149   3e-34 
+SEQF2454_01055 Flagellar filament 30.7 kDa core protein [HMT-892...   148   6e-34 
+SEQF1958_00150 Flagellar filament 31 kDa core protein [HMT-726 C...   148   6e-34 
+SEQF1697_01117 Flagellin B [HMT-124 Selenomonas artemidis F0399]      148   6e-34 
+SEQF2919_01859 Flagellar filament 35 kDa core protein [HMT-920 S...   148   7e-34 
+SEQF3073_02971 A-type flagellin [HMT-211 Acidovorax caeni R-24608]    147   1e-33 
+SEQF3060_01512 Flagellar filament 31 kDa core protein [HMT-136 S...   147   1e-33 
+SEQF1890_00833 Flagellar filament 31 kDa core protein [HMT-133 S...   147   1e-33 
+SEQF3179_01347 Flagellin [HMT-081 Peptostreptococcaceae_G-7 bact...   147   2e-33 
+SEQF3705_02381 Flagellin [HMT-347 Saccharibacteria_TM7_G-1 bacte...   145   4e-33 
+SEQF1890_01023 Flagellar filament 31 kDa core protein [HMT-133 S...   145   6e-33 
+SEQF2549_03302 Flagellin [HMT-801 Enterococcus casseliflavus 14-...   144   8e-33 
+SEQF1961_00427 Flagellin [HMT-801 Enterococcus casseliflavus ATC...   144   8e-33 
+SEQF1734_01710 Flagellin [HMT-801 Enterococcus casseliflavus EC30]    144   8e-33 
+SEQF1170_04007 Flagellin [HMT-045 Alkalihalobacillus clausii KSM...   144   1e-32 
+SEQF2324_03874 Flagellin [HMT-468 Bacillus subtilis subsp. subti...   143   2e-32 
+SEQF2291_03571 Flagellin [HMT-468 Bacillus subtilis subsp. subti...   143   2e-32 
+SEQF1979_03114 A-type flagellin [HMT-856 Sanguibacter keddieii D...   143   2e-32 
+SEQF1658_01871 Flagellar filament 34.5 kDa core protein [HMT-786...   143   2e-32 
+SEQF3179_01346 Flagellin [HMT-081 Peptostreptococcaceae_G-7 bact...   142   4e-32 
+SEQF3065_01784 Flagellin [HMT-921 Paenibacillus glucanolyticus W...   142   4e-32 
+SEQF2880_01515 Flagellin [HMT-921 Paenibacillus glucanolyticus 5...   142   4e-32 
+SEQF1690_00358 Flagellin [HMT-130 Selenomonas noxia F0398]            142   5e-32 
+SEQF1593_00962 Flagellin [HMT-130 Selenomonas noxia ATCC 43541]       142   5e-32 
+SEQF2060_02747 Flagellin [HMT-802 Enterococcus saccharolyticus 3...   141   7e-32 
+SEQF2293_03229 Flagellin [HMT-468 Bacillus subtilis subsp. spizi...   141   9e-32 
+SEQF2289_03569 Flagellin [HMT-468 Bacillus subtilis subsp. spizi...   141   9e-32 
+SEQF1958_02376 Flagellin [HMT-726 Centipeda periodontii DSM 2778]     140   2e-31 
+SEQF1673_01590 Flagellin [HMT-639 Selenomonas infelix ATCC 43532]     139   3e-31 
+SEQF2456_03522 Flagellin [HMT-876 Clostridiales_F-3G-1 bacterium...   139   5e-31 
+SEQF1616_00537 Flagellin [HMT-125 Selenomonas flueggei ATCC 43531]    139   5e-31 
+SEQF1173_01749 Flagellin [HMT-468 Bacillus subtilis BSn5]             139   5e-31 
+SEQF2850_00892 Flagellin [HMT-182 Anoxybacillus flavithermus dsm...   138   6e-31 
+SEQF2039_03843 Flagellin [HMT-468 Bacillus subtilis subsp. natto...   138   6e-31 
+SEQF2736_00130 Flagellin [HMT-999 WPS-2_G-1 bacterium_HMT_999 CA...   137   1e-30 
+SEQF2456_02319 Flagellin [HMT-876 Clostridiales_F-3G-1 bacterium...   137   1e-30 
+SEQF3089_02399 Flagellin [HMT-101 Neisseria perflava CCH6-A12]        137   2e-30 
+SEQF2850_00881 Flagellin [HMT-182 Anoxybacillus flavithermus dsm...   137   2e-30 
+SEQF2408_00150 Flagellin [HMT-571 Burkholderia cepacia GG4]           137   2e-30 
+SEQF2170_01821 A-type flagellin [HMT-477 Pseudomonas stutzeri AT...   137   2e-30 
+SEQF1674_00209 Flagellin [HMT-363 Fretibacterium fastidiosum SGP1]    137   2e-30 
+SEQF3705_02382 Flagellin [HMT-347 Saccharibacteria_TM7_G-1 bacte...   136   2e-30 
+SEQF3066_01104 Flagellin [HMT-500 Lachnospiraceae_G-8 bacterium_...   135   4e-30 
+SEQF2171_00195 Flagellin D [HMT-477 Pseudomonas stutzeri DSM 4166]    135   5e-30 
+SEQF3168_00882 Flagellar filament 30.7 kDa core protein [HMT-725...   135   7e-30 
+SEQF3167_00395 Flagellar filament 30.7 kDa core protein [HMT-725...   135   7e-30 
+SEQF3166_00788 Flagellar filament 30.7 kDa core protein [HMT-725...   135   7e-30 
+SEQF3165_00406 Flagellar filament 30.7 kDa core protein [HMT-725...   135   7e-30 
+SEQF3158_00132 Flagellar filament 30.7 kDa core protein [HMT-725...   135   7e-30 
+SEQF2805_01361 Flagellin [HMT-126 Selenomonas sp._HMT_126 W7667]      135   7e-30 
+SEQF2757_02157 Flagellar filament 30.7 kDa core protein [HMT-769...   134   9e-30 
+SEQF3080_02301 Flagellin [HMT-007 Erythrobacter tepidarius DSM 1...   134   1e-29 
+SEQF1942_00564 Flagellar filament 30.7 kDa core protein [HMT-769...   133   2e-29 
+SEQF1942_00563 Flagellar filament 31.3 kDa core protein [HMT-769...   133   2e-29 
+SEQF2545_00859 Flagellar filament 31 kDa core protein [HMT-805 T...   133   2e-29 
+SEQF2429_00861 Flagellar filament 31 kDa core protein [HMT-805 T...   133   2e-29 
+SEQF2182_00862 Flagellar filament 31 kDa core protein [HMT-805 T...   133   2e-29 
+SEQF1596_03034 Flagellin [HMT-165 Catonella morbi ATCC 51271]         133   2e-29 
+SEQF1596_03032 Flagellin [HMT-165 Catonella morbi ATCC 51271]         133   2e-29 
+SEQF1499_00885 Flagellar filament 31 kDa core protein [HMT-805 T...   133   2e-29 
+SEQF1419_00862 Flagellar filament 31 kDa core protein [HMT-805 T...   133   2e-29 
+SEQF1350_00857 Flagellar filament 31 kDa core protein [HMT-805 T...   133   2e-29 
+SEQF1328_00856 Flagellar filament 31 kDa core protein [HMT-805 T...   133   2e-29 
+SEQF1326_00860 Flagellar filament 31 kDa core protein [HMT-805 T...   133   2e-29 
+SEQF1062_00884 Flagellar filament 31 kDa core protein [HMT-805 T...   133   2e-29 
+SEQF2462_01606 Flagellar filament 30.7 kDa core protein [HMT-653...   132   3e-29 
+SEQF2757_01063 Flagellar filament 31.3 kDa core protein [HMT-769...   132   6e-29 
+SEQF1947_01233 Flagellar filament 31 kDa core protein [HMT-029 T...   132   6e-29 
+SEQF1610_02205 Flagellar filament 31 kDa core protein [HMT-029 T...   132   6e-29 
+SEQF1940_00387 Flagellar filament 31 kDa core protein [HMT-667 T...   131   7e-29 
+SEQF1876_02244 Flagellar filament 31 kDa core protein [HMT-584 T...   131   7e-29 
+SEQF1875_02228 Flagellar filament 31 kDa core protein [HMT-584 T...   131   7e-29 
+SEQF2771_02391 Flagellar filament 31 kDa core protein [HMT-743 T...   130   2e-28 
+SEQF3549_01503 Flagellin FlaB3 [HMT-584 Treponema denticola Mars...   130   2e-28 
+SEQF1878_01591 Flagellar filament 31 kDa core protein [HMT-584 T...   130   2e-28 
+SEQF1877_02336 Flagellar filament 31 kDa core protein [HMT-584 T...   130   2e-28 
+SEQF1874_00358 Flagellar filament 31 kDa core protein [HMT-584 T...   130   2e-28 
+SEQF1873_00323 Flagellar filament 31 kDa core protein [HMT-584 T...   130   2e-28 
+SEQF1872_02269 Flagellar filament 31 kDa core protein [HMT-584 T...   130   2e-28 
+SEQF1871_01446 Flagellar filament 31 kDa core protein [HMT-584 T...   130   2e-28 
+SEQF1870_01653 Flagellar filament 31 kDa core protein [HMT-584 T...   130   2e-28 
+SEQF1869_00272 Flagellar filament 31 kDa core protein [HMT-584 T...   130   2e-28 
+SEQF1868_02007 Flagellar filament 31 kDa core protein [HMT-584 T...   130   2e-28 
+SEQF1867_02160 Flagellar filament 31 kDa core protein [HMT-584 T...   130   2e-28 
+SEQF1866_02617 Flagellar filament 31 kDa core protein [HMT-584 T...   130   2e-28 
+SEQF1865_01813 Flagellar filament 31 kDa core protein [HMT-584 T...   130   2e-28 
+SEQF1864_00271 Flagellar filament 31 kDa core protein [HMT-584 T...   130   2e-28 
+SEQF1679_01635 Flagellar filament 31 kDa core protein [HMT-584 T...   130   2e-28 
+SEQF1061_01414 Flagellar filament 31 kDa core protein [HMT-584 T...   130   2e-28 
+SEQF3168_00569 Flagellar filament 31.3 kDa core protein [HMT-725...   129   3e-28 
+SEQF3167_00972 Flagellar filament 31.3 kDa core protein [HMT-725...   129   3e-28 
+SEQF3166_01444 Flagellar filament 31.3 kDa core protein [HMT-725...   129   3e-28 
+SEQF3165_00727 Flagellar filament 31.3 kDa core protein [HMT-725...   129   3e-28 
+SEQF3158_01057 Flagellar filament 31.3 kDa core protein [HMT-725...   129   3e-28 
+SEQF1947_01234 Flagellar filament 34.5 kDa core protein [HMT-029...   129   5e-28 
+SEQF1940_00386 Flagellar filament 34.5 kDa core protein [HMT-667...   129   5e-28 
+SEQF1610_02204 Flagellar filament 34.5 kDa core protein [HMT-029...   129   5e-28 
+SEQF2323_01760 Flagellin [HMT-824 Bacillus anthracis str. H9401]      128   8e-28 
+SEQF1709_02848 Flagellin [HMT-824 Bacillus anthracis CDC 684]         128   8e-28 
+SEQF1708_01764 Flagellin [HMT-824 Bacillus anthracis A0248]           128   8e-28 
+SEQF1153_04598 Flagellin [HMT-824 Bacillus anthracis str. A0488]      128   8e-28 
+SEQF1151_04217 Flagellin [HMT-824 Bacillus anthracis str. A0465]      128   8e-28 
+SEQF1150_04026 Flagellin [HMT-824 Bacillus anthracis str. A0442]      128   8e-28 
+SEQF1143_03487 Flagellin [HMT-824 Bacillus anthracis str. A0389]      128   8e-28 
+SEQF1141_03976 Flagellin [HMT-824 Bacillus anthracis str. A0193]      128   8e-28 
+SEQF1140_04303 Flagellin [HMT-824 Bacillus anthracis str. A0174]      128   8e-28 
+SEQF1139_03935 Flagellin [HMT-824 Bacillus anthracis Tsiankovski...   128   8e-28 
+SEQF1041_01765 Flagellin [HMT-824 Bacillus anthracis Sterne]          128   8e-28 
+SEQF1038_01764 Flagellin [HMT-824 Bacillus anthracis Ames Ancestor]   128   8e-28 
+SEQF1037_01765 Flagellin [HMT-824 Bacillus anthracis Ames]            128   8e-28 
+SEQF1941_00518 Flagellar filament 30.7 kDa core protein [HMT-664...   127   1e-27 
+SEQF1912_01269 Flagellin [HMT-377 Peptostreptococcaceae_G-7 Euba...   127   1e-27 
+SEQF1854_02211 Flagellin [HMT-108 Oribacterium asaccharolyticum ...   127   1e-27 
+SEQF2057_00039 Flagellin [HMT-858 Comamonas testosteroni ATCC 11...   127   1e-27 
+SEQF3175_01499 Flagellin [HMT-102 Oribacterium sp._HMT_102 W9097]     127   2e-27 
+SEQF2757_00534 Flagellar filament 33 kDa core protein [HMT-769 T...   125   7e-27 
+SEQF1942_01770 Flagellar filament 33 kDa core protein [HMT-769 T...   125   7e-27 
+SEQF3168_00881 Flagellar filament 31.3 kDa core protein [HMT-725...   124   9e-27 
+SEQF3167_00394 Flagellar filament 31.3 kDa core protein [HMT-725...   124   9e-27 
+SEQF3166_00787 Flagellar filament 31.3 kDa core protein [HMT-725...   124   9e-27 
+SEQF3165_00407 Flagellar filament 31.3 kDa core protein [HMT-725...   124   9e-27 
+SEQF1947_00991 Flagellar filament 33 kDa core protein [HMT-029 T...   124   9e-27 
+SEQF1610_01933 Flagellar filament 33 kDa core protein [HMT-029 T...   124   9e-27 
+SEQF3158_00133 Flagellar filament 31.3 kDa core protein [HMT-725...   124   1e-26 
+SEQF2714_04170 Flagellin [HMT-740 Pseudomonas oleovorans AD6]         124   2e-26 
+SEQF2521_00200 Flagellin [HMT-477 Pseudomonas stutzeri DSM 10701]     123   2e-26 
+SEQF3179_01523 Flagellin [HMT-081 Peptostreptococcaceae_G-7 bact...   123   3e-26 
+SEQF1941_00519 Flagellar filament 31.3 kDa core protein [HMT-664...   123   3e-26 
+SEQF1940_01241 Flagellar filament 33 kDa core protein [HMT-667 T...   123   3e-26 
+SEQF2771_02390 Flagellar filament 34.5 kDa core protein [HMT-743...   122   3e-26 
+SEQF2545_00858 Flagellar filament 34.5 kDa core protein [HMT-805...   122   3e-26 
+SEQF2429_00860 Flagellar filament 34.5 kDa core protein [HMT-805...   122   3e-26 
+SEQF2182_00861 Flagellar filament 34.5 kDa core protein [HMT-805...   122   3e-26 
+SEQF1876_02245 Flagellar filament 34.5 kDa core protein [HMT-584...   122   3e-26 
+SEQF1875_02227 Flagellar filament 34.5 kDa core protein [HMT-584...   122   3e-26 
+SEQF1674_02262 Flagellin [HMT-363 Fretibacterium fastidiosum SGP1]    122   3e-26 
+SEQF1419_00861 Flagellar filament 34.5 kDa core protein [HMT-805...   122   3e-26 
+SEQF1350_00856 Flagellar filament 34.5 kDa core protein [HMT-805...   122   3e-26 
+SEQF1328_00855 Flagellar filament 34.5 kDa core protein [HMT-805...   122   3e-26 
+SEQF1326_00859 Flagellar filament 34.5 kDa core protein [HMT-805...   122   3e-26 
+SEQF1062_00883 Flagellar filament 34.5 kDa core protein [HMT-805...   122   3e-26 
+SEQF3549_01504 Flagellin FlaB1 [HMT-584 Treponema denticola Mars...   122   4e-26 
+SEQF1878_01590 Flagellar filament 34.5 kDa core protein [HMT-584...   122   4e-26 
+SEQF1877_02337 Flagellar filament 34.5 kDa core protein [HMT-584...   122   4e-26 
+SEQF1874_00359 Flagellar filament 34.5 kDa core protein [HMT-584...   122   4e-26 
+SEQF1872_02270 Flagellar filament 34.5 kDa core protein [HMT-584...   122   4e-26 
+SEQF1871_01447 Flagellar filament 34.5 kDa core protein [HMT-584...   122   4e-26 
+SEQF1870_01652 Flagellar filament 34.5 kDa core protein [HMT-584...   122   4e-26 
+SEQF1869_00273 Flagellar filament 34.5 kDa core protein [HMT-584...   122   4e-26 
+SEQF1868_02006 Flagellar filament 34.5 kDa core protein [HMT-584...   122   4e-26 
+SEQF1867_02161 Flagellar filament 34.5 kDa core protein [HMT-584...   122   4e-26 
+SEQF1866_02618 Flagellar filament 34.5 kDa core protein [HMT-584...   122   4e-26 
+SEQF1865_01812 Flagellar filament 34.5 kDa core protein [HMT-584...   122   4e-26 
+SEQF1864_00272 Flagellar filament 34.5 kDa core protein [HMT-584...   122   4e-26 
+SEQF1679_01636 Flagellar filament 34.5 kDa core protein [HMT-584...   122   4e-26 
+SEQF1061_01415 Flagellar filament 34.5 kDa core protein [HMT-584...   122   4e-26 
+SEQF2771_01595 Flagellar filament 33 kDa core protein [HMT-743 T...   122   6e-26 
+SEQF1876_01761 Flagellar filament 33 kDa core protein [HMT-584 T...   122   6e-26 
+SEQF1875_02712 Flagellar filament 33 kDa core protein [HMT-584 T...   122   6e-26 
+SEQF1872_01843 Flagellar filament 33 kDa core protein [HMT-584 T...   122   6e-26 
+SEQF1871_01017 Flagellar filament 33 kDa core protein [HMT-584 T...   122   6e-26 
+SEQF2057_00040 Flagellin [HMT-858 Comamonas testosteroni ATCC 11...   121   8e-26 
+SEQF2422_02825 Flagellin [HMT-614 Lysinibacillus fusiformis ZB2]      120   1e-25 
+SEQF1873_00322 Flagellar filament 34.5 kDa core protein [HMT-584...   120   1e-25 
+SEQF3549_01923 Flagellar filament 33 kDa core protein [HMT-584 T...   119   3e-25 
+SEQF1878_02009 Flagellar filament 33 kDa core protein [HMT-584 T...   119   3e-25 
+SEQF1877_00118 Flagellar filament 33 kDa core protein [HMT-584 T...   119   3e-25 
+SEQF1874_02544 Flagellar filament 33 kDa core protein [HMT-584 T...   119   3e-25 
+SEQF1873_00726 Flagellar filament 33 kDa core protein [HMT-584 T...   119   3e-25 
+SEQF1870_02115 Flagellar filament 33 kDa core protein [HMT-584 T...   119   3e-25 
+SEQF1869_02409 Flagellar filament 33 kDa core protein [HMT-584 T...   119   3e-25 
+SEQF1868_02469 Flagellar filament 33 kDa core protein [HMT-584 T...   119   3e-25 
+SEQF1867_01685 Flagellar filament 33 kDa core protein [HMT-584 T...   119   3e-25 
+SEQF1866_02136 Flagellar filament 33 kDa core protein [HMT-584 T...   119   3e-25 
+SEQF1865_02228 Flagellar filament 33 kDa core protein [HMT-584 T...   119   3e-25 
+SEQF1864_02424 Flagellar filament 33 kDa core protein [HMT-584 T...   119   3e-25 
+SEQF1679_02522 Flagellar filament 33 kDa core protein [HMT-584 T...   119   3e-25 
+SEQF1061_00960 Flagellar filament 33 kDa core protein [HMT-584 T...   119   3e-25 
+SEQF2805_01151 Flagellar filament 31 kDa core protein [HMT-126 S...   119   4e-25 
+SEQF2793_01210 Flagellin [HMT-605 Desulfovibrio fairfieldensis C...   119   4e-25 
+SEQF2462_01607 Flagellar filament 31.3 kDa core protein [HMT-653...   119   4e-25 
+SEQF2057_00041 Flagellin [HMT-858 Comamonas testosteroni ATCC 11...   119   4e-25 
+SEQF2545_00791 Flagellar filament 33 kDa core protein [HMT-805 T...   118   6e-25 
+SEQF2429_00793 Flagellar filament 33 kDa core protein [HMT-805 T...   118   6e-25 
+SEQF2182_00794 Flagellar filament 33 kDa core protein [HMT-805 T...   118   6e-25 
+SEQF1499_00813 Flagellar filament 33 kDa core protein [HMT-805 T...   118   6e-25 
+SEQF1419_00794 Flagellar filament 33 kDa core protein [HMT-805 T...   118   6e-25 
+SEQF1350_00789 Flagellar filament 33 kDa core protein [HMT-805 T...   118   6e-25 
+SEQF1328_00788 Flagellar filament 33 kDa core protein [HMT-805 T...   118   6e-25 
+SEQF1326_00792 Flagellar filament 33 kDa core protein [HMT-805 T...   118   6e-25 
+SEQF1062_00813 Flagellar filament 33 kDa core protein [HMT-805 T...   118   6e-25 
+SEQF1920_01165 Flagellin [HMT-614 Lysinibacillus fusiformis ZC1]      118   8e-25 
+SEQF1481_01958 Flagellin [HMT-565 Enterobacter cancerogenus ATCC...   117   1e-24 
+SEQF1711_00293 Flagellin 1 [HMT-574 Escherichia coli O26:H11 str...   116   2e-24 
+SEQF1710_00299 Flagellin 1 [HMT-574 Escherichia coli O111:H- str...   116   2e-24 
+SEQF1519_00281 Flagellin 1 [HMT-574 Escherichia coli SECEC SMS-3-5]   116   2e-24 
+SEQF1429_03670 Flagellin 1 [HMT-574 Escherichia coli C str. ATCC...   116   2e-24 
+SEQF1218_00304 Flagellin 1 [HMT-574 Escherichia coli UMN026 O17:...   116   2e-24 
+SEQF1199_00307 Flagellin 1 [HMT-574 Escherichia coli 042]             116   2e-24 
+SEQF1188_01425 Flagellin 1 [HMT-574 Escherichia coli 53638]           116   2e-24 
+SEQF2172_04801 Flagellin [HMT-854 Ralstonia pickettii 12J]            115   5e-24 
+SEQF1977_03739 Flagellin [HMT-854 Ralstonia pickettii 12D]            115   5e-24 
+SEQF2456_03133 Flagellin [HMT-876 Clostridiales_F-3G-1 bacterium...   115   7e-24 
+SEQF2155_00761 Flagellin [HMT-825 Listeria monocytogenes serotyp...   114   9e-24 
+SEQF2154_00762 Flagellin [HMT-825 Listeria monocytogenes M7]          114   9e-24 
+SEQF2153_00737 Flagellin [HMT-825 Listeria monocytogenes EGD-e]       114   9e-24 
+SEQF1721_00741 Flagellin [HMT-825 Listeria monocytogenes serotyp...   114   9e-24 
+SEQF1720_00752 Flagellin [HMT-825 Listeria monocytogenes 08-5923]     114   9e-24 
+SEQF1574_02022 Flagellin [HMT-825 Listeria monocytogenes HCC23]       114   9e-24 
+SEQF1552_02078 Flagellin [HMT-825 Listeria monocytogenes J2818]       114   9e-24 
+SEQF1551_00750 Flagellin [HMT-825 Listeria monocytogenes J0161]       114   9e-24 
+SEQF1549_01678 Flagellin [HMT-825 Listeria monocytogenes HPB2262]     114   9e-24 
+SEQF1548_00738 Flagellin [HMT-825 Listeria monocytogenes Finland...   114   9e-24 
+SEQF1546_01545 Flagellin [HMT-825 Listeria monocytogenes FSL R2-...   114   9e-24 
+SEQF1545_00320 Flagellin [HMT-825 Listeria monocytogenes FSL N3-...   114   9e-24 
+SEQF1544_02159 Flagellin [HMT-825 Listeria monocytogenes FSL N1-...   114   9e-24 
+SEQF1543_00577 Flagellin [HMT-825 Listeria monocytogenes FSL J2-...   114   9e-24 
+SEQF1479_02862 Flagellin [HMT-825 Listeria monocytogenes FSL J1-...   114   9e-24 
+SEQF1459_02068 Flagellin [HMT-825 Listeria monocytogenes F6900]       114   9e-24 
+SEQF1456_00724 Flagellin [HMT-825 Listeria monocytogenes 10403S]      114   9e-24 
+SEQF1053_00797 Flagellin [HMT-825 Listeria monocytogenes 08-5578]     114   9e-24 
+SEQF1052_02821 Flagellin [HMT-825 Listeria monocytogenes 4b H7858]    114   9e-24 
+SEQF1051_00754 Flagellin [HMT-825 Listeria monocytogenes 4b F2365]    114   9e-24 
+SEQF1050_02484 Flagellin [HMT-825 Listeria monocytogenes 1/2a F6...   114   9e-24
