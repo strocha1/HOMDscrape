@@ -1,0 +1,230 @@
+>Capnocytophaga gingivalis ATCC 33624
+>Capnocytophaga sp HMT 338 F0234
+>Capnocytophaga granulosa ATCC 51502
+>Capnocytophaga sp HMT 863 F0517
+>Capnocytophaga sp HMT 336 F0502
+>Capnocytophaga sp HMT 412 F0487
+>Capnocytophaga ochracea str Holt 25
+>Capnocytophaga ochracea F0287
+>Capnocytophaga sp HMT 864 F0512
+>Capnocytophaga ochracea DSM 7271 ATCC 27872 JCM 12966
+>Capnocytophaga sp HMT 903 W10654
+>Capnocytophaga sp HMT 323 F0383
+>Capnocytophaga sp HMT 335 F0486
+>Capnocytophaga sp HMT 324 F0483
+>Capnocytophaga sp HMT 380 F0488
+>Capnocytophaga sp HMT 902 W10638
+>Capnocytophaga haemolytica CCUG 32990
+>Capnocytophaga sputigena ATCC 33612
+>Capnocytophaga sp HMT 326 F0382
+>Capnocytophaga leadbetteri F0087
+>Capnocytophaga sp HMT 878 F0545
+>Capnocytophaga sp HMT 332 F0381
+>Segetibacter aerophilus NBRC 106135
+>Porphyromonas catoniae F0037
+>Porphyromonas catoniae ATCC 51270
+>Tannerella forsythia ATCC 43037 FDC 338
+>Tannerella forsythia 92A2 not ATCC 43037 FDC 338
+>Tannerella sp HMT 286 isolate Cell 5
+>Tannerella sp HMT 286 isolate Cell 13
+>Prevotella histicola F0411
+>Tannerella sp HMT 286 isolate Cell 679
+>Tannerella sp HMT 286 isolate Cell 2
+>Tannerella sp HMT 808 SAG 110 Cell110
+>Prevotella histicola JCM 15637  DNF00424
+>Tannerella sp HMT 808 SAG 108 Cell108
+>Prevotella oris JCM 12252
+>Prevotella oris DSM 18711
+>Tannerella sp HMT 286 W11666
+>Tannerella sp HMT 286 W11667
+>Prevotella sp HMT 313 F0648
+>Alloprevotella tannerae ATCC 51259
+>Porphyromonas sp HMT 278 W7784
+>Prevotella denticola JCM 13449
+>Prevotella denticola DSM 20614
+>Prevotella scopos w2052
+>Prevotella melaninogenica D18
+>Prevotella denticola F0289
+>Prevotella melaninogenica DNF00666
+>Prevotella melaninogenica ATCC 25845
+>Prevotella denticola CRIS 18CA
+>Prevotella denticola DNF00960
+>Prevotella multiformis DSM 16608
+>Prevotella sp HMT 472 F0295
+>Tannerella sp HMT 808 SAG 103 Cell103
+>Prevotella loescheii DSM 19665  JCM 12249  ATCC 15930
+>Prevotella fusca W1435
+>Prevotella sp HMT 314 F0091
+>Prevotella sp HMT 317 F0108
+>Bacteroidales G2 bacterium HMT 274 F0058
+>Prevotella sp HMT 306 F0472
+>Prevotella micans DSM 21469
+>Prevotella micans F0438
+>Prevotella oralis CC98A
+>Prevotella veroralis F0319
+>Prevotella oralis HGA0225
+>Prevotella oralis ATCC 33269
+>Porphyromonas pasteri F0450
+>Prevotella veroralis JCM 6290
+>Prevotella veroralis DSM 19559
+>Prevotella enoeca F0113
+>Prevotella marshii JCM 13450
+>Prevotella marshii DSM 16973
+>Prevotella sp HMT 820 W6195
+>Alloprevotella rava F0323
+>Prevotella pleuritidis F0068
+>Porphyromonas asaccharolytica DSM 20707
+>Porphyromonas uenonis 603
+>Prevotella sp HMT 376 F0043
+>Porphyromonas asaccharolytica PR426713PI
+>Prevotella buccalis ATCC 35310
+>Porphyromonas gingivalis 131
+>Porphyromonas gingivalis 843
+>Porphyromonas gingivalis CP3
+>Porphyromonas gingivalis KCOM 2801
+>Porphyromonas gingivalis KCOM 2798
+>Porphyromonas gingivalis KCOM 2805
+>Porphyromonas gingivalis KCOM 2804
+>Porphyromonas gingivalis KCOM 2799
+>Prevotella salivae DSM 15606
+>Prevotella intermedia KCOM 2837
+>Porphyromonas gingivalis 159
+>Porphyromonas gingivalis KCOM 2796
+>Porphyromonas gingivalis F0568
+>Prevotella intermedia KCOM 2698
+>Porphyromonas gingivalis TDC 60
+>Porphyromonas gingivalis TDC60
+>Prevotella intermedia KCOM 2836
+>Prevotella intermedia KCOM 1107
+>Porphyromonas gingivalis SJD12
+>Porphyromonas gingivalis KCOM 2797
+>Porphyromonas gingivalis F0566
+>Prevotella intermedia KCOM 2833
+>Prevotella intermedia KCOM 1944
+>Prevotella intermedia KCOM 1933
+>Prevotella intermedia KCOM 2069
+>Prevotella intermedia WW414
+>Prevotella intermedia WW2834
+>Porphyromonas gingivalis 3A1
+>Porphyromonas gingivalis KCOM 2800
+>Porphyromonas gingivalis KCOM 2803
+>Porphyromonas gingivalis KCOM 2802
+>Porphyromonas gingivalis WW2931
+>Porphyromonas gingivalis Ando
+>Prevotella intermedia KCOM 2838
+>Porphyromonas gingivalis ATCC 49417
+>Porphyromonas gingivalis WW2842
+>Porphyromonas gingivalis WW2881
+>Porphyromonas gingivalis AJW4
+>Prevotella intermedia KCOM 2734
+>Prevotella intermedia OMA14
+>Porphyromonas gingivalis H3
+>Porphyromonas gingivalis A7436
+>Porphyromonas gingivalis W50
+>Porphyromonas gingivalis AFR5B1
+>Porphyromonas gingivalis WW2866
+>Prevotella pallens ATCC 700821
+>Prevotella intermedia NCTC13070
+>Prevotella intermedia ATCC 15033
+>Prevotella intermedia ATCC 15032
+>Prevotella intermedia KCOM 1945
+>Prevotella intermedia KCOM 1741
+>Prevotella intermedia KCOM 1949
+>Prevotella intermedia KCOM 2033
+>Porphyromonas gingivalis A7A128
+>Porphyromonas gingivalis 381OKJP
+>Porphyromonas gingivalis WW3102
+>Porphyromonas gingivalis WW3039
+>Porphyromonas gingivalis A7A128
+>Prevotella buccalis DNF00853
+>Prevotella intermedia ATCC 25611  DSM 20706
+>Porphyromonas gingivalis JCVI SC001
+>Prevotella intermedia KCOM 2832
+>Prevotella intermedia KCOM 1101
+>Prevotella intermedia WW855
+>Prevotella intermedia ZT
+>Porphyromonas gingivalis 7BTORR
+>Porphyromonas gingivalis SJD11
+>Porphyromonas gingivalis F0570
+>Porphyromonas gingivalis F0569
+>Porphyromonas gingivalis 11A
+>Porphyromonas gingivalis KCOM 3001
+>Porphyromonas gingivalis KCOM 3131
+>Porphyromonas gingivalis WW2096
+>Porphyromonas gingivalis WW2885
+>Porphyromonas gingivalis WW3040
+>Prevotella aurantianca JCM 15754
+>Porphyromonas gingivalis MP4504
+>Prevotella intermedia KCOM 1653
+>Porphyromonas gingivalis SU60
+>Porphyromonas gingivalis WW2952
+>Porphyromonas gingivalis WW5019
+>Porphyromonas gingivalis WW2903
+>Porphyromonas gingivalis SJD5
+>Prevotella buccalis DNF00985
+>Porphyromonas gingivalis SJD2
+>Porphyromonas gingivalis W4087
+>Porphyromonas gingivalis 33
+>Porphyromonas gingivalis UBA8864
+>Porphyromonas gingivalis 381
+>Porphyromonas gingivalis HG66
+>Prevotella nigrescens CC14M
+>Alloprevotella sp HMT 473 F0040
+>Prevotella nigrescens F0103
+>Porphyromonas gingivalis ATCC 33277
+>Porphyromonas gingivalis WW5127
+>Porphyromonas gingivalis F0185
+>Prevotella nigrescens ATCC 33563
+>Prevotella salivae F0493
+>Prevotella intermedia ATCC 49046
+>Porphyromonas gingivalis SJD4
+>Prevotella intermedia KCOM 1779
+>Prevotella intermedia 172
+>Prevotella intermedia 17
+>Prevotella baroniae DSM 16972
+>Porphyromonas endodontalis ATCC 35406
+>Prevotella buccae ATCC 33574
+>Prevotella baroniae F0067
+>Prevotella buccae D17
+>Prevotella saccharolytica F0055
+>Prevotella oris F0302
+>Prevotella dentalis DSM 3688
+>Prevotella nanceiensis F0039
+>Prevotella oulorum F0390
+>Prevotella maculosa DSM 19339
+>Prevotella oulorum JCM 14966
+>Prevotella maculosa OT 289 F0099
+>Porphyromonas gingivalis W83
+>Prevotella multisaccharivorax DSM 17128
+>Prevotella scopos JCM 17725W2052
+>Prevotella maculosa JCM 15638
+>Prevotella micans JCM 16134
+>Prevotella shahii JCM 12083
+>Prevotella saccharolytica JCM 17484
+>Prevotella enoeca JCM 12259
+>Prevotella fusca JCM 17724
+>Prevotella baroniae JCM 13447
+>Melioribacter roseus P3M2
+>Prevotella baroniae JCM 13447
+>Ignavibacterium album JCM 16511
+>Porphyromonas uenonis JCM 13868
+>Prevotella fusca JCM 17724
+>Prevotella enoeca JCM 12259
+>Prevotella saccharolytica JCM 17484
+>Tannerella sp HMT 286 isolate Cell 811
+>Prevotella shahii JCM 12083
+>Porphyromonas uenonis JCM 13868
+>Prevotella micans JCM 16134
+>Porphyromonas uenonis JCM 13868
+>Prevotella shahii JCM 12083
+>Prevotella maculosa JCM 15638
+>Porphyromonas uenonis JCM 13868
+>Prevotella veroralis JCM 6290
+>Prevotella histicola JCM 15637  DNF00424
+>Prevotella fusca JCM 17724
+>Prevotella scopos JCM 17725W2052
+>Prevotella baroniae JCM 13447
+>Porphyromonas uenonis JCM 13868
+>Tannerella sp HMT 286 isolate Cell 13
+>Prevotella oulorum JCM 14966
+>Porphyromonas gingivalis W83
