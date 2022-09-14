@@ -1,0 +1,282 @@
+
+BLASTP 2.2.25 [Feb-01-2011]
+
+
+Reference:
+Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schäffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Database: ftp/faa/ALL_genomes.faa 
+           5,041,813 sequences; 1,561,442,254 total letters
+
+
+
+Query= 
+         (231 letters)
+
+Top of Form
+
+Bottom of Form
+Distribution of 204 Blast Hits on the Query Sequence
+
+
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+SEQF1602_02226 hypothetical protein [HMT-337 Capnocytophaga ging...   446   e-124 
+SEQF1687_00055 hypothetical protein [HMT-338 Capnocytophaga sp. ...   402   e-111 
+SEQF1653_01696 hypothetical protein [HMT-325 Capnocytophaga gran...   385   e-106 
+SEQF2319_01127 hypothetical protein [HMT-863 Capnocytophaga sp. ...   371   e-101 
+SEQF2788_00464 hypothetical protein [HMT-627 Capnocytophaga haem...   276   4e-73 
+SEQF3176_00794 hypothetical protein [HMT-903 Capnocytophaga sp. ...   261   2e-68 
+SEQF1950_02049 hypothetical protein [HMT-380 Capnocytophaga sp. ...   261   2e-68 
+SEQF3174_01115 hypothetical protein [HMT-902 Capnocytophaga sp. ...   258   1e-67 
+SEQF3058_01648 hypothetical protein [HMT-864 Capnocytophaga sp. ...   258   1e-67 
+SEQF2747_01545 hypothetical protein [HMT-323 Capnocytophaga sp. ...   258   1e-67 
+SEQF2387_01051 hypothetical protein [HMT-700 Capnocytophaga ochr...   258   1e-67 
+SEQF1970_00250 hypothetical protein [HMT-336 Capnocytophaga sp. ...   258   1e-67 
+SEQF1938_00628 hypothetical protein [HMT-324 Capnocytophaga sp. ...   258   1e-67 
+SEQF1909_01861 hypothetical protein [HMT-412 Capnocytophaga sp. ...   258   1e-67 
+SEQF1906_01952 hypothetical protein [HMT-335 Capnocytophaga sp. ...   258   1e-67 
+SEQF1008_00823 hypothetical protein [HMT-700 Capnocytophaga ochr...   258   1e-67 
+SEQF1006_01670 hypothetical protein [HMT-700 Capnocytophaga ochr...   258   1e-67 
+SEQF1684_01542 hypothetical protein [HMT-329 Capnocytophaga lead...   249   5e-65 
+SEQF1937_02441 hypothetical protein [HMT-332 Capnocytophaga sp. ...   245   1e-63 
+SEQF3059_02145 hypothetical protein [HMT-878 Capnocytophaga sp. ...   243   4e-63 
+SEQF1900_02651 hypothetical protein [HMT-326 Capnocytophaga sp. ...   239   7e-62 
+SEQF1576_01301 hypothetical protein [HMT-775 Capnocytophaga sput...   239   9e-62 
+SEQF1033_01647 hypothetical protein [HMT-273 Porphyromonas endod...    95   2e-18 
+SEQF3105_00257 hypothetical protein [HMT-808 Tannerella sp. HMT ...    94   5e-18 
+SEQF3104_00673 hypothetical protein [HMT-808 Tannerella sp. HMT ...    92   1e-17 
+SEQF1451_01440 hypothetical protein [HMT-274 Bacteroidales G-2 b...    86   1e-15 
+SEQF3210_01330 hypothetical protein [HMT-619 Porphyromonas gingi...    84   4e-15 
+SEQF3204_00339 hypothetical protein [HMT-619 Porphyromonas gingi...    84   4e-15 
+SEQF3198_01187 hypothetical protein [HMT-619 Porphyromonas gingi...    84   5e-15 
+SEQF3225_01381 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3223_00697 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3222_00341 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3220_01396 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3219_00525 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3217_01438 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3214_00463 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3211_01677 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3209_01290 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3208_00414 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3207_00184 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3206_01925 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3205_00699 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3203_01546 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3202_00576 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3201_01090 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3197_00956 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3196_00824 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3195_00611 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3192_01552 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3191_00630 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3190_00481 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3187_00852 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3184_01406 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF2799_00019 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF2507_01282 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF2458_00161 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF2457_00023 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF2447_00996 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF2366_00219 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF2356_01729 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF2355_01665 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF1975_01289 hypothetical protein [HMT-619 Porphyromonas gingi...    84   7e-15 
+SEQF3224_01625 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF3221_01479 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF3218_00037 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF3216_00761 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF3215_00407 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF3213_01175 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF3212_00741 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF3200_00514 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF3199_01219 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF3194_00109 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF3193_00579 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF3189_00546 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF3188_01786 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF3183_00068 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF2798_01599 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF2797_01669 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF2743_01262 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF2742_01566 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF2741_01621 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF2740_02078 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF2616_01685 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF2392_00972 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF1538_01636 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF1064_00268 hypothetical protein [HMT-619 Porphyromonas gingi...    83   9e-15 
+SEQF3226_00102 hypothetical protein [HMT-619 Porphyromonas gingi...    83   1e-14 
+SEQF3186_00303 hypothetical protein [HMT-619 Porphyromonas gingi...    83   1e-14 
+SEQF1796_01246 hypothetical protein [HMT-785 Porphyromonas uenon...    82   1e-14 
+SEQF2637_00362 hypothetical protein [HMT-286 Tannerella sp. HMT ...    82   2e-14 
+SEQF2635_01958 hypothetical protein [HMT-286 Tannerella sp. HMT ...    82   2e-14 
+SEQF2632_00403 hypothetical protein [HMT-283 Porphyromonas caton...    82   2e-14 
+SEQF3185_00895 hypothetical protein [HMT-619 Porphyromonas gingi...    82   3e-14 
+SEQF3182_00682 hypothetical protein [HMT-619 Porphyromonas gingi...    82   3e-14 
+SEQF2636_00778 hypothetical protein [HMT-286 Tannerella sp. HMT ...    82   3e-14 
+SEQF3068_02371 hypothetical protein [HMT-286 Tannerella sp. HMT ...    81   3e-14 
+SEQF2807_00843 hypothetical protein [HMT-286 Tannerella sp. HMT ...    81   3e-14 
+SEQF2738_01896 hypothetical protein [HMT-613 Tannerella forsythi...    81   3e-14 
+SEQF1072_01190 hypothetical protein [HMT-613 Tannerella forsythi...    81   3e-14 
+SEQF2160_01661 hypothetical protein [HMT-547 Porphyromonas asacc...    81   4e-14 
+SEQF2145_00637 hypothetical protein [HMT-547 Porphyromonas asacc...    81   4e-14 
+SEQF2357_00368 hypothetical protein [HMT-278 Porphyromonas sp. H...    80   1e-13 
+SEQF1936_00130 hypothetical protein [HMT-283 Porphyromonas caton...    80   1e-13 
+SEQF2634_00386 hypothetical protein [HMT-286 Tannerella sp. HMT ...    78   3e-13 
+SEQF1946_02197 hypothetical protein [HMT-781 Prevotella saccharo...    68   4e-10 
+SEQF2733_00780 hypothetical protein [HMT-291 Prevotella denticol...    67   5e-10 
+SEQF2146_02297 hypothetical protein [HMT-291 Prevotella denticol...    67   5e-10 
+SEQF1987_00339 hypothetical protein [HMT-794 Prevotella multisac...    67   6e-10 
+SEQF2685_02458 hypothetical protein [HMT-781 Prevotella saccharo...    67   8e-10 
+SEQF1989_01844 hypothetical protein [HMT-714 Prevotella pallens ...    67   8e-10 
+SEQF2676_01122 hypothetical protein [HMT-291 Prevotella denticol...    66   1e-09 
+SEQF2563_01827 hypothetical protein [HMT-291 Prevotella denticol...    66   1e-09 
+SEQF2792_02254 hypothetical protein [HMT-600 Prevotella enoeca F...    66   1e-09 
+SEQF2677_02461 hypothetical protein [HMT-600 Prevotella enoeca J...    66   1e-09 
+SEQF2734_02335 hypothetical protein [HMT-469 Prevotella melanino...    65   2e-09 
+SEQF3090_00590 hypothetical protein [HMT-943 Prevotella aurantia...    65   2e-09 
+SEQF1986_02344 hypothetical protein [HMT-685 Prevotella multifor...    65   3e-09 
+SEQF1935_01249 hypothetical protein [HMT-303 Prevotella pleuriti...    64   4e-09 
+SEQF1800_00243 hypothetical protein [HMT-469 Prevotella melanino...    64   4e-09 
+SEQF1691_01350 hypothetical protein [HMT-288 Prevotella oulorum ...    64   4e-09 
+SEQF1677_00822 hypothetical protein [HMT-291 Prevotella denticol...    64   4e-09 
+SEQF1142_00281 hypothetical protein [HMT-469 Prevotella melanino...    64   4e-09 
+SEQF3074_01375 hypothetical protein [HMT-314 Prevotella sp. HMT ...    64   5e-09 
+SEQF2681_02191 hypothetical protein [HMT-665 Prevotella marshii ...    64   5e-09 
+SEQF1915_01492 hypothetical protein [HMT-665 Prevotella marshii ...    64   5e-09 
+SEQF3542_01305 hypothetical protein [HMT-643 Prevotella intermed...    64   7e-09 
+SEQF3533_00630 hypothetical protein [HMT-643 Prevotella intermed...    64   7e-09 
+SEQF1887_00970 hypothetical protein [HMT-306 Prevotella sp. HMT ...    64   7e-09 
+SEQF3536_00100 hypothetical protein [HMT-643 Prevotella intermed...    63   9e-09 
+SEQF2922_00034 hypothetical protein [HMT-885 Prevotella scopos w...    63   9e-09 
+SEQF2686_01166 hypothetical protein [HMT-885 Prevotella scopos J...    63   9e-09 
+SEQF3529_00351 hypothetical protein [HMT-643 Prevotella intermed...    63   1e-08 
+SEQF3526_00158 hypothetical protein [HMT-643 Prevotella intermed...    63   1e-08 
+SEQF2617_02096 hypothetical protein [HMT-693 Prevotella nigresce...    63   1e-08 
+SEQF1663_00850 hypothetical protein [HMT-572 Prevotella verorali...    63   1e-08 
+SEQF3545_01313 hypothetical protein [HMT-643 Prevotella intermed...    62   2e-08 
+SEQF3543_02244 hypothetical protein [HMT-643 Prevotella intermed...    62   2e-08 
+SEQF3532_01951 hypothetical protein [HMT-643 Prevotella intermed...    62   2e-08 
+SEQF3530_01486 hypothetical protein [HMT-643 Prevotella intermed...    62   2e-08 
+SEQF3525_01161 hypothetical protein [HMT-643 Prevotella intermed...    62   2e-08 
+SEQF2679_01048 hypothetical protein [HMT-298 Prevotella histicol...    62   2e-08 
+SEQF1893_01204 hypothetical protein [HMT-693 Prevotella nigresce...    62   2e-08 
+SEQF1689_00690 hypothetical protein [HMT-693 Prevotella nigresce...    62   2e-08 
+SEQF3548_01510 hypothetical protein [HMT-643 Prevotella intermed...    62   2e-08 
+SEQF3547_00865 hypothetical protein [HMT-643 Prevotella intermed...    62   2e-08 
+SEQF3546_01355 hypothetical protein [HMT-643 Prevotella intermed...    62   2e-08 
+SEQF3544_01335 hypothetical protein [HMT-643 Prevotella intermed...    62   2e-08 
+SEQF3541_00288 hypothetical protein [HMT-643 Prevotella intermed...    62   2e-08 
+SEQF3539_00852 hypothetical protein [HMT-643 Prevotella intermed...    62   2e-08 
+SEQF3538_00403 hypothetical protein [HMT-643 Prevotella intermed...    62   2e-08 
+SEQF3537_01136 hypothetical protein [HMT-643 Prevotella intermed...    62   2e-08 
+SEQF3535_00886 hypothetical protein [HMT-643 Prevotella intermed...    62   2e-08 
+SEQF3534_00152 hypothetical protein [HMT-643 Prevotella intermed...    62   2e-08 
+SEQF3524_01465 hypothetical protein [HMT-643 Prevotella intermed...    62   2e-08 
+SEQF3523_01933 hypothetical protein [HMT-643 Prevotella intermed...    62   2e-08 
+SEQF3522_02310 hypothetical protein [HMT-643 Prevotella intermed...    62   2e-08 
+SEQF3521_01043 hypothetical protein [HMT-643 Prevotella intermed...    62   2e-08 
+SEQF3063_01646 hypothetical protein [HMT-313 Prevotella sp. HMT ...    62   2e-08 
+SEQF2732_01212 hypothetical protein [HMT-562 Prevotella buccalis...    62   2e-08 
+SEQF2684_01842 hypothetical protein [HMT-288 Prevotella oulorum ...    62   2e-08 
+SEQF2554_01126 hypothetical protein [HMT-643 Prevotella intermed...    62   2e-08 
+SEQF1799_00695 hypothetical protein [HMT-562 Prevotella buccalis...    62   2e-08 
+SEQF1065_01239 hypothetical protein [HMT-643 Prevotella intermed...    62   2e-08 
+SEQF3055_01051 hypothetical protein [HMT-376 Prevotella sp. HMT ...    62   3e-08 
+SEQF2731_02197 hypothetical protein [HMT-562 Prevotella buccalis...    62   3e-08 
+SEQF3531_01568 hypothetical protein [HMT-643 Prevotella intermed...    61   4e-08 
+SEQF3528_01923 hypothetical protein [HMT-643 Prevotella intermed...    61   4e-08 
+SEQF3527_01522 hypothetical protein [HMT-643 Prevotella intermed...    61   4e-08 
+SEQF2688_00954 hypothetical protein [HMT-572 Prevotella verorali...    61   4e-08 
+SEQF2511_02169 hypothetical protein [HMT-572 Prevotella verorali...    61   4e-08 
+SEQF2687_01427 hypothetical protein [HMT-795 Prevotella shahii J...    61   5e-08 
+SEQF1852_00016 hypothetical protein [HMT-298 Prevotella histicol...    61   5e-08 
+SEQF2523_01123 hypothetical protein [HMT-705 Prevotella oralis H...    60   6e-08 
+SEQF1988_01283 hypothetical protein [HMT-705 Prevotella oralis A...    60   6e-08 
+SEQF2618_02055 hypothetical protein [HMT-705 Prevotella oralis C...    60   8e-08 
+SEQF3540_00781 hypothetical protein [HMT-643 Prevotella intermed...    60   1e-07 
+SEQF1617_00159 hypothetical protein [HMT-472 Prevotella sp. HMT ...    60   1e-07 
+SEQF2461_02417 hypothetical protein [HMT-658 Prevotella loeschei...    59   1e-07 
+SEQF1671_01600 hypothetical protein [HMT-302 Alloprevotella rava...    59   1e-07 
+SEQF2680_01680 hypothetical protein [HMT-289 Prevotella maculosa...    59   2e-07 
+SEQF2508_02042 hypothetical protein [HMT-289 Prevotella maculosa...    59   2e-07 
+SEQF2753_01070 hypothetical protein [HMT-782 Prevotella fusca W1...    59   2e-07 
+SEQF2678_01534 hypothetical protein [HMT-782 Prevotella fusca JC...    59   2e-07 
+SEQF3072_01313 hypothetical protein [HMT-820 Prevotella sp. HMT ...    58   3e-07 
+SEQF2683_00455 hypothetical protein [HMT-311 Prevotella oris JCM...    58   4e-07 
+SEQF2510_01765 hypothetical protein [HMT-311 Prevotella oris DSM...    58   4e-07 
+SEQF1907_01102 hypothetical protein [HMT-279 Porphyromonas paste...    58   4e-07 
+SEQF2147_01760 hypothetical protein [HMT-289 Prevotella maculosa...    57   5e-07 
+SEQF1656_00953 hypothetical protein [HMT-311 Prevotella oris F0302]    57   5e-07 
+SEQF2149_01408 hypothetical protein [HMT-307 Prevotella salivae ...    57   7e-07 
+SEQF1477_01219 hypothetical protein [HMT-317 Prevotella sp. HMT ...    57   7e-07 
+SEQF2682_02046 hypothetical protein [HMT-378 Prevotella micans J...    57   9e-07 
+SEQF2509_00322 hypothetical protein [HMT-378 Prevotella micans D...    57   9e-07 
+SEQF1932_02529 hypothetical protein [HMT-307 Prevotella salivae ...    57   9e-07 
+SEQF1863_00566 hypothetical protein [HMT-378 Prevotella micans F...    57   9e-07 
+SEQF2675_00084 hypothetical protein [HMT-553 Prevotella baroniae...    56   1e-06 
+SEQF2582_02117 hypothetical protein [HMT-553 Prevotella baroniae...    56   1e-06 
+SEQF2022_00572 hypothetical protein [HMT-583 Prevotella dentalis...    56   1e-06 
+SEQF1934_00212 hypothetical protein [HMT-553 Prevotella baroniae...    56   1e-06 
+SEQF3157_03331 hypothetical protein [HMT-261 Segetibacter aeroph...    55   2e-06 
+SEQF1452_01977 hypothetical protein [HMT-299 Prevotella nanceien...    55   3e-06 
+SEQF1899_00687 hypothetical protein [HMT-473 Alloprevotella sp. ...    49   2e-04 
+SEQF1597_00732 hypothetical protein [HMT-466 Alloprevotella tann...    48   4e-04 
+SEQF2674_01884 hypothetical protein [HMT-785 Porphyromonas uenon...    47   5e-04 
+
+
+  Database: ftp/faa/ALL_genomes.faa
+    Posted date:  Nov 11, 2020 10:17 PM
+  Number of letters in database: 999,999,889
+  Number of sequences in database:  3,250,776
+  
+  Database: ALL_genomes.faa.01
+    Posted date:  Nov 11, 2020 10:17 PM
+  Number of letters in database: 561,442,365
+  Number of sequences in database:  1,791,037
+  
+Lambda     K      H
+   0.314    0.131    0.360 
+
+Gapped
+Lambda     K      H
+   0.267   0.0410    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Hits to DB: 637,821,343
+Number of Sequences: 5041813
+Number of extensions: 25394206
+Number of successful extensions: 73127
+Number of sequences better than 1.0e-02: 204
+Number of HSP's better than  0.0 without gapping: 104
+Number of HSP's successfully gapped in prelim test: 100
+Number of HSP's that attempted gapping in prelim test: 72571
+Number of HSP's gapped (non-prelim): 280
+length of query: 231
+length of database: 1,561,442,254
+effective HSP length: 127
+effective length of query: 104
+effective length of database: 921,132,003
+effective search space: 95797728312
+effective search space used: 95797728312
+T: 11
+A: 40
+X1: 16 ( 7.3 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 42 (22.0 bits)
+S2: 100 (43.1 bits)
+
+
+
