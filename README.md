@@ -2,6 +2,7 @@
 Code and files used for the phylogenetic analysis of the Human Oral Microbiome
 
 This folder is the main folder containing the most recent code for HOMDscrape.
+There are comments on every line of code describing the function. 
 
 ## Programs needed
 Chromedriver version 105.0.5195.52
