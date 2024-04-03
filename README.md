@@ -25,7 +25,7 @@ HOMDscrape relies on the following packages (which can be installed using pip if
 1. Install an [Anaconda](https://anaconda.org/anaconda/anaconda-navigator) navigator of Python.
 2. Open a Jupyter Notebook (version 6.5.4) and Python 3 notebook (ipykernel).
 3. Once opened, copy the notebook found [here](https://github.com/strocha1/HOMDscrape/blob/main/Main%20Code/SeqID_code_Main.%203.29.22.ipynb) and the example file found [here]() into the same folder.
-5. Make sure that HOMD.org is version 192.168.0.52 and chromedriver is 105.0.5195.52
+5. Make sure that HOMD.org is version 192.168.0.51 and chromedriver is 123.0.6312.86
 6. Run the notebook and 4 output files should be given: name.txt, AA.txt, newAA.txt, and finalfile.txt.
 7. Once files are received, the code can be used for your files.
    
@@ -33,7 +33,7 @@ HOMDscrape relies on the following packages (which can be installed using pip if
 1. Collect a BLAST file or Sequence Identifier file for the sequences that you need. 
 2. Open a Jupyter Notebook (version 6.5.4) and Python 3 notebook (ipykernel).
 3. Once opened, copy the notebook found [here](https://github.com/strocha1/HOMDscrape/blob/main/Main%20Code/SeqID_code_Main.%203.29.22.ipynb) and the example file found [here]() into the same folder. The example file can be switched out for your personal file of sequence ID's. 
-5. Make sure that HOMD.org is version 192.168.0.52 and chromedriver is 105.0.5195.52
+5. Make sure that HOMD.org is version 192.168.0.51 and chromedriver is 123.0.6312.86
 6. Make sure that the code pulls the sequence ID file (location of this command is annotated in the code. 
 7. Run the notebook and 4 output files should be given: name.txt, AA.txt, newAA.txt, and finalfile.txt.
 8. Once files are received, the finalfile.txt can be used for downstream analysis (ex. phylogenetic tree construction, Multiple Sequence Alignment)
