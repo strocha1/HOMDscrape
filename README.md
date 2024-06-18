@@ -1,6 +1,6 @@
 # HOMDscrape
 
-HOMDscrape utilizes a Python-based software tool written in Jupyter Notebook to automate interaction with the [eHOMD](http://v2.homd.org/) webserver using an open-source API and the HTML code from eHOMD. It is used to automate the process of gathering species names and amino acid sequences from a BLAST result or sequence identifier file.Once the raw data is collected by HOMDscrape, it is converted into a FASTA format and saved as a plain text file that can be used for downstream analysis (ex. Phylogenetic tree construction, Multiple Sequence Alignment).
+HOMDscrape utilizes a Python-based software tool written in Jupyter Notebook to automate interaction with the [eHOMD](https://www.homd.org/) webserver using an open-source API and the HTML code from eHOMD. It is used to automate the process of gathering species names and amino acid sequences from a BLAST result or xml file.Once the raw data is collected by HOMDscrape, it is converted into a FASTA format and saved as a plain text file that can be used for downstream analysis (ex. Phylogenetic tree construction, Multiple Sequence Alignment).
 
 
 ## CITATION 
@@ -13,27 +13,17 @@ Sofia T. Rocha, Dhara D. Shah, Qiyun Zhu, & Abhishek Shrivastava. The prevalence
 The code has been written in Jupyter Notebook on a Windows system. Please open an issue if you have problems with installation. 
 ### Dependencies
 HOMDscrape relies on the following packages (which can be installed using pip if needed):
-- [requests](https://pypi.org/project/requests/)
-- [urllib.request](https://pypi.org/project/urllib3/)
-- [time](https://docs.python.org/3/library/time.html)
-- [pandas](https://pandas.pydata.org/)
-- [numpy](https://numpy.org/)
-- [Selenium](https://selenium-python.readthedocs.io/)
-- [WebDriver](https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.chrome.webdriver)
-  
+- [re](https://docs.python.org/3/howto/regex.html)
+- [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/#)
 ### Example Instructions
 1. Install an [Anaconda](https://anaconda.org/anaconda/anaconda-navigator) navigator of Python.
 2. Open a Jupyter Notebook (version 6.5.4) and Python 3 notebook (ipykernel).
-3. Once opened, copy the notebook found [here](https://github.com/strocha1/HOMDscrape/blob/main/Main%20Code/SeqID_code_Main.%203.29.22.ipynb) and the example file found [here]() into the same folder.
-5. Make sure that HOMD.org is version 192.168.0.51 and chromedriver is 123.0.6312.86
-6. Run the notebook and 4 output files should be given: name.txt, AA.txt, newAA.txt, and finalfile.txt.
-7. Once files are received, the code can be used for your files.
+3. Once opened, copy the notebook found in V3 HOMDscrape and the example xml file into the same folder.
+4. Run the notebook and the output file should be ina  FASTA format
    
 ### Instructions for sequence ID files
-1. Collect a BLAST file or Sequence Identifier file for the sequences that you need. 
+1. Collect a BLAST file or Sequence Identifier file for the sequences that you need using the Sequence Server found on [eHOMD](https://www.homd.org/genome/blast_sserver?type=refseq). 
 2. Open a Jupyter Notebook (version 6.5.4) and Python 3 notebook (ipykernel).
-3. Once opened, copy the notebook found [here](https://github.com/strocha1/HOMDscrape/blob/main/Main%20Code/SeqID_code_Main.%203.29.22.ipynb) and the example file found [here]() into the same folder. The example file can be switched out for your personal file of sequence ID's. 
-5. Make sure that HOMD.org is version 192.168.0.51 and chromedriver is 123.0.6312.86
-6. Make sure that the code pulls the sequence ID file (location of this command is annotated in the code. 
-7. Run the notebook and 4 output files should be given: name.txt, AA.txt, newAA.txt, and finalfile.txt.
+3. Once opened, copy the notebook found in the V3 HOMDscrape folder and the xml file of your choosing.  
+7. Run the notebook and 1 output files should be given: finalfile.txt.
 8. Once files are received, the finalfile.txt can be used for downstream analysis (ex. phylogenetic tree construction, Multiple Sequence Alignment)
