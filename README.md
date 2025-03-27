@@ -6,7 +6,7 @@ HOMDscrape utilizes a Python-based software tool written in Jupyter Notebook to 
 ## CITATION 
 **If you use HOMDscrape, please cite the following paper:**
 
-Sofia T. Rocha, Dhara D. Shah, Qiyun Zhu, & Abhishek Shrivastava. The prevalence of motility within the human oral microbiota. bioRxiv 2023.07.17.549387 (2023) doi:10.1101/2023.07.17.549387.
+Rocha ST, Shah DD, Zhu Q, Shrivastava A.2025.The prevalence of motility-related genes within the human oral microbiota. Microbiol Spectr13:e01264-24.https://doi-org.ezproxy1.lib.asu.edu/10.1128/spectrum.01264-24
 
 # Local installation 
 ### System requirements
